@@ -13,7 +13,7 @@ class PDFOCRProcessorTesseract:
         self.output_dir = 'temp_images'
         
         if not os.path.exists(self.pdf_path):
-            raise FileNotFoundError(f"The file {self.pdf_path} does not.")
+            raise FileNotFoundError(f"The file {self.pdf_path} does not exist.")
         
         os.makedirs(self.output_dir, exist_ok=True)
 
@@ -62,9 +62,8 @@ class PDFOCRProcessorTesseract:
             print(f"Extraction completed. Text saved in: '{self.output_text_file}'.")
         except Exception as e:
             print(f"Error during the PDF processing: {str(e)}")
-            traceback.print_exc() 
 
 
 if __name__ == "__main__":
-    pdf_processor = PDFOCRProcessorTesseract('downloads\Convocatoria General.pdf', language='spa')
+    pdf_processor = PDFOCRProcessorTesseract('ACTA DE ADJUDICACION MAE-PEEN-2022-0001.pdf', language='spa')
     pdf_processor.process_pdf()
