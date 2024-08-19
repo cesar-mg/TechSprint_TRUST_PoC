@@ -7,13 +7,13 @@ try:
     pipe = pipeline("text-generation", model="EleutherAI/gpt-neo-1.3B")
     print("Pipeline configurado correctamente.")  
 
-    context = "Me llamo juan"
-    question = "¿quien habla?"
+    context = "Se adjudica el contrato a la persona RAMON CONCEPCION PLACENCIA, con el Registro Nacional de Contribuyentes (RNC) Numero. 049-0030912-3 habilitado para contratar con el Estado mediante el Registro de Proveedor Núm."
+    question = "¿Como se llama la persona se le adjudica el contrato? No me interesa el Registro Nacional de Contribuyentes"
     prompt = f"{context} \n\n Pregunta: {question} \n Respuesta:"
     print(f"Prompt generado: {prompt}")
 
     print("Generando la respuesta...")
-    response = pipe(prompt, max_length=50, do_sample=True)
+    response = pipe(prompt, max_length=150, do_sample=True)
     print("Respuesta generada.")
 
     if response:
