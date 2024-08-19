@@ -65,5 +65,7 @@ class PDFOCRProcessorTesseract:
 
 
 if __name__ == "__main__":
-    pdf_processor = PDFOCRProcessorTesseract('ACTA DE ADJUDICACION MAE-PEEN-2022-0001.pdf', language='spa')
+    data_directory = os.path.abspath(os.path.join( "database", "bronze"))
+    input_file = os.path.join(data_directory, "SENEYDA EULALIA ABREY CUOTA.pdf")
+    pdf_processor = PDFOCRProcessorTesseract(input_file, language='spa')
     pdf_processor.process_pdf()
