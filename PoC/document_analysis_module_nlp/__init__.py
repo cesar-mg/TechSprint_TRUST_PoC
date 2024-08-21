@@ -1,0 +1,3 @@
+from document_analysis_module_nlp import *
+from . import document_analysis_module_nlp
+from document_analysis_module_nlp import TextDataExtractor 
