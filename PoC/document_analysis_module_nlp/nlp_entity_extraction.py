@@ -1,8 +1,6 @@
 import spacy
 import re
 import pandas as pd
-from typing import List, Tuple
-import os
 class ContractEntityExtractor:
     """
     A class to extract entities (persons or organizations) and associated monetary amounts from text,
@@ -82,27 +80,3 @@ class ContractEntityExtractor:
         df = pd.DataFrame(entities_and_amounts, columns=["Entity", "Amount"])
         
         return df
-
-# Example usage:
-if __name__ == "__main__":
-    text = """
-    1- JOLTECA, S.R.L., la cual ofertó por un valor total de Quince Millones Ciento Cuatro Mil Pesos
-    Dominicanos (RD$15,104,000.00).
-    2- SERDATECH, S.R.L., la cual ofertó por un valor total de Cuarenta y Un Millones Quinientos
-    Treinta y Seis Mil Pesos Dominicanos (RD$41,536,000.00).
-    21- SENEYDA EULALIA ABREU DE SANCHEZ, la cual ofertó por un valor total de Tres Millones e
-    Setecientos Diecisiete Mil Pesos Dominicanos (RD$3,717,000.00).
-    """
-    
-    # Instantiate the extractor
-    extractor = ContractEntityExtractor()
-    
-    # Extract entities and amounts
-    df_entities_and_amounts = extractor.extract_entities_and_amounts(text)
-    
-    # Save the DataFrame to an Excel file
-    output_directory = os.path.abspath(os.path.join( "database", "gold"))
-    output_file = os.path.join(output_directory, "entities_and_amounts.xlsx")
-    df_entities_and_amounts.to_excel(output_file, index=False)
-    
-    print("Data has been written to entities_and_amounts.xlsx")

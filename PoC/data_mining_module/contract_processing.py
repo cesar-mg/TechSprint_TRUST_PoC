@@ -33,13 +33,13 @@ class ContractFilter:
     
     def filter_data(self, df):
         """
-        Filters the DataFrame to include only rows where OBJETO_CONTRATO is 'Bienes'.
+        Filters the DataFrame to include only rows where OBJETO_CONTRATO is 'Bienes' or 'Servicios'.
         
         :param df: DataFrame containing the contracts data.
         :return: Filtered DataFrame.
         """
         try:
-            filtered_df = df[df['OBJETO_CONTRATO'] == 'Bienes']
+            filtered_df = df[df['OBJETO_CONTRATO'] == 'Bienes' | df['OBJETO_CONTRATO'] == 'Servicios']
             return filtered_df
         except KeyError:
             print("Error: The specified column 'OBJETO_CONTRATO' does not exist in the DataFrame.")
@@ -66,19 +66,3 @@ class ContractFilter:
             print(f"An unexpected error occurred while extracting parameters: {e}")
             raise
         
-if __name__ == "__main__":
-    # Initialize the ContractFilter with the path to the contracts CSV file
-    contract_filter = ContractFilter('contracts.csv')
-    
-    # Load the data
-    df = contract_filter.load_data()
-    
-    # Filter the data
-    filtered_df = contract_filter.filter_data(df)
-    
-    # Get the parameters for the WebScraper
-    codigo_proceso, urls = contract_filter.get_parameters(filtered_df)
-    
-    # Initialize and run the WebScraper
-    scraper = WebScraperSelenium(urls, codigo_proceso)
-    scraper.scrape()

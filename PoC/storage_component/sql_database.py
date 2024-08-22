@@ -3,7 +3,7 @@ import re
 from typing import Optional, Tuple
 import sys
 import os
-from document_analysis_module_nlp.nlp_entity_extraction import *
+from document_analysis_module_nlp.nlp_entity_extraction import TextDataExtractor
 
 class DataExtractor:
     def __init__(self, db_name: str = 'extracted_data.db'):
@@ -58,23 +58,3 @@ class DataExtractor:
         Closes the connection to the SQLite database.
         """
         self.conn.close()
-
-if __name__ == '__main__':
-    text = """...""" 
-
-    # Create an instance of the DataExtractor class
-    extractor = TextDataExtractor()
-
-    # Extract amount and person
-    amount, person = extractor.extract_amount_and_person(text)
-
-    # Insert the extracted data into the database
-    extractor.insert_data(amount, person)
-
-    # Fetch and print all data from the database
-    data = extractor.fetch_all_data()
-    for row in data:
-        print(row)
-
-    # Close the connection to the database
-    extractor.close_connection()

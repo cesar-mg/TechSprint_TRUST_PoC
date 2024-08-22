@@ -6,7 +6,7 @@ import traceback
 import shutil
 
 class PDFOCRProcessorTesseract:
-    def __init__(self, pdf_path, output_text_file='extracted_text.txt', language='spa'):
+    def __init__(self, pdf_path, output_text_file='PoC\database\silver\extracted_text.txt', language='spa'):
         self.pdf_path = pdf_path
         self.output_text_file = output_text_file
         self.language = language
@@ -56,16 +56,10 @@ class PDFOCRProcessorTesseract:
         """Main method to process the PDF and extract text."""
         try:
             images = self.convert_pdf_to_images()
+
             extracted_text = self.extract_text_from_images(images)
             self.save_text_to_file(extracted_text)
             self.clean_up()
             print(f"Extraction completed. Text saved in: '{self.output_text_file}'.")
         except Exception as e:
             print(f"Error during the PDF processing: {str(e)}")
-
-
-if __name__ == "__main__":
-    data_directory = os.path.abspath(os.path.join( "database", "bronze"))
-    input_file = os.path.join(data_directory, "SENEYDA EULALIA ABREY CUOTA.pdf")
-    pdf_processor = PDFOCRProcessorTesseract(input_file, language='spa')
-    pdf_processor.process_pdf()
