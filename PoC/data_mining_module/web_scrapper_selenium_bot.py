@@ -42,15 +42,3 @@ class WebScraperSelenium:
 
     def close(self):
         self.driver.quit()
-
-
-# Tests
-import pandas as pd
-df = pd.DataFrame({
-    'urls': [
-        'https://comunidad.comprasdominicana.gob.do//Public/Tendering/OpportunityDetail/Index?noticeUID=DO1.NTC.1249808'
-    ]
-})
-scraper = WebScraperSelenium(df['urls'].tolist())
-scraper.scrape()
-scraper.close()
