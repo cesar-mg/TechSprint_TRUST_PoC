@@ -1,0 +1,52 @@
+--- Page 1 ---
+E)
+
+MINISTERIO DE HACIENDA
+CERTIFICADO DE CUOTA A COMPROMETER
+
+Sistema Integrado de Gestión Financiera
+
+Periodo Fiscal: 2022 No. Expediente: EDESUR-MAE-PEEN-2022-0001
+
+IO los | 12] 2022 No. Documento:
+
+12
+DD | MM | _AAAA
+
+Capítulo: 6105-Corporación Dominicana de Empresas Eléctricas Estatales (CDEEE)
+
+Sub Capítulo: 01-Corporación Dominicana de Empresas Eléctricas Estatales (CDEEE)
+
+Unidad Ejecutora: 0006 EDESUR Dominicana, S.A,
+
+Proceso! “Adquisición de Materiales Eléctricos para resolución de averías y mantenimiento de redes
+
+en estado de emergencia”
+
+No. Referencia: EDESUR-MAE-PEEN-2022-0001
+
+Monto total Proceso: SESENTA Y SEIS MILLONES CIENTO VEINTICINCO MIL OCHOCIENTOS OCHENTA Y
+CINCO CON 00/100
+
+Moneda: Pesos Dominicanos
+
+Se CERTIFICA la Disponibilidad de Cuota a Comprometer en base al Presupuesto General de EDESUR para
+el año 2021 que permite suscribir contratos de compra de bienes, obras y servicios o firmar órdenes de
+compras por el monto indicado en este documento, en cumplimiento a lo establecido en el Decreto 15-17
+del 08 febrero de 2017, De acuerdo al siguiente detalle:
+
+Cuenta ; Apropiación Presupuestaria
+Presupuestaria Nombre de la Cuenta Presupuestaria 2022
+2.3.9.6 Conductores y Cables 66,125,885.46
+Total: 66,125,885.46
+El monto de:
+Número de Preventivo Fecha de Preventivo Monto de Preventivo
+DF-CF-295-2022 66,125,885.46
+
+Nota Aclaratoria: El modelo de Certificado de disponibilidad de cuota a comprometer implementado en EDESUR
+DOMINICANA S. A., es una adaptación fiel en forma y contenido al utilizado por las entidades que son regidas
+Sistema de Información de la Gestión Financiera (SIGEF), dada la imposibilidad de asumirlo bajo el mismo formato,
+puesto que en EDESUR DOMINICANA S. A., funciona el Sistema SAP
+
+
+

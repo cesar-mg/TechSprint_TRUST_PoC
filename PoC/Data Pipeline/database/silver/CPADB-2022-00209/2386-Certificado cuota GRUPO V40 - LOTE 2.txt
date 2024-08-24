@@ -1,0 +1,60 @@
+--- Page 1 ---
+ON
+
+_ GOBIERNO DE LA
+REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+[09 |] 12 | 2022 No. Documento : EG1670592349597UMHYL
+Fecha
+| Do | mm | arsa
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+SubCapítulo: 02-GABINETE DE LA POLÍTICA SOCIAL
+Unidad Ejecutora : 0004-COMISION PRESIDENCIAL DE APOYO AL DESARROLLO BARRIAL
+Proceso : COMPROMISO A FAVOR DE GRUPO V40 POR CONCEPTO DE ADQUISICION ZINC,
+
+CABALLETES Y CLAVOS PARA REPARACION DE TECHOS A FAMILIAS AFECTADAS
+POR INUNDACIONES POR LLUVIAS OCURRIDAS EL 04/11/2022 EN LA PROVINCIA
+SANTO DOMINGO Y EL DISTRITO NACIONAL.
+
+No. Referencia :
+
+Monto Total Proceso :
+
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No. 345-21 que permite suscribir contratos de compra de bienes, obras y servicios o
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+P Cuenta : Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+resupuestaria
+
+2.3.6.3.06 Productos metálicos 18,695,330.00
+Total 18,695,330.00
+El monto de : **Dieciocho millones seiscientos noventa y cinco mil trescientos treinta con 00/100
+
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+2022.0201.02.0004.2386-Versión 1 09/12/2022 18,695,330.00
+Beneficiario
+Código Nombre Moneda Original
+
+131749208 Grupo V40, SRL 18,695,330.00
+
+Total 18,695,330.00
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-
+sigef.hacienda.gob.do/servicios/general/reporte/publico/RP1670863028922yuWC3dQ3in ¡SIGEF/
+
+Certificado de Apropiación Presupuestaria No.: EG1669235103467wrKsA
+
+

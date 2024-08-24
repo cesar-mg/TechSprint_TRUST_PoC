@@ -1,0 +1,165 @@
+--- Page 1 ---
+Sistema de Información de la Gestión Financiera
+
+SECPION 1A: DATOS CABECERA SUPERIOR
+
+Dev [NJ] Lo E] Pag
+
+Entrada de Diario de Transacciones
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y
+
+Aplicaciones Financieras)
+
+SECRETARIADO ADMINISTRATIVO DE LA PRESIDENCIA
+
+eg_formulario2.jrxml
+Página 1 de 1
+
+11/10/2022 9:35 Al
+
+01700238858 - SIGEF
+
+Número y Versión : 9743-1
+Fecha Registro + 11/10/2022
+Fecha Imputación + 11/10/2022
+
+Aprobado
+
+Financiero
+
+Tipo de Norma : N/A
+Desc. Norma : NA
+Donación
+
+Préstamo
+
+Totales por Moneda
+
+PESOS DOMINICANOS
+
+Presupuesto : 2022
+Cápitulo : 0201 PRESIDENCIA DE LA REPÚBLICA
+Subtápitulo 01 MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+DAF 01 MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+UE í 0001
+SECCION 1B: DATOS CABECERA MEDIANA
+Tipo Fransacción : COMPROMISO (Proceso Compra)
+Etapd del Gasto : Prev [7N-] Comp
+- Docufhento de Ref.: 2022-0201-01-01-0001-9609
+SECCION 1C: DATOS CABECERA INFERIOR
+¡po de Gasto Valores
+Presi)puestarlo 59,183,301.20
+No Plesupuestarlo 0.00
+Instificional 0.00
+
+Total|General 59,183,301,20
+
+[meto | 59,183,301,20
+[Bruto | 59,183,301,20
+
+Pesos Dominicanos
+
+59,183,301.20
+
+59,183,301,20
+
+Agruppdor : Calamidades y Emergencias por Fenómenos Naturales - Huracán Flona
+Concepto : PAGO A FERRETERIA POPULAR, SRL, POR ADQUISICION DE SUMINISTROS DE MATERIALES PARA LA CONSTRUCCION DE VIVIENDAS
+AFECTADOS DE HURACAN FIONA
+
+Coletilla
+
+Códigp Deuda
+DOCUMENTOS DE RESPALDO
+SECCION 1D: BENEFICIARIOS
+
+Tipo Doc. Cod. Benef. Beneficiario | Monto Bruto Monto Deducción Monto Neto
+R , 101029358 Ferreteria Popular, SRL [ 59,183,301.20 0.00| 59,183,301.2(
+DEDUÉ CIONES
+SECCION 1E: DATOS DE IMPUTACIONES
+Insfitución Programática Fuente Ubic, Geo Específico Snip
+
+- Cap-Dbp-Daf.Ue | Prg:Prod:Pry-Act | Fue«Fxp-Org | Reg-Prov.Mun CCP-Ref.Fun-Ob|:IRec Snip-Tip Descurcisn dol programa bel obten
+
+10201-01:P1-0001 101-00-00-0001 50-5011-109 98-99-9999 2.3.1.4.01-1,1.02-001- a ¡Actividades centrales 42,039,211.00| 42,039,211.0(
+/00000-0000_
+
+0201-01(p1-0001 [er00-00-0001 50-5011-109 — [98-99-9999 — |2.3.6.3.06-1.1.02:-001- [Actividades centrales TA) 59,183,301.20
+
+SECCION 1F: PIE DEL DOCUMENTO
+
+Firmas Autorizadas para el;
+
+£
+
+N
+
+Responsable de Registro
+
+Aprobación Libramiento CGR
+
+0, 2022.0201.01.0001.9743-1
+1
+
+istro o Dir. O Indep.
+
+
+
+--- Page 2 ---
+_ SOBIERNO DE LA
+REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+Eerh No. Documento : EG1665494172370D81hk
+[oo | mm | aña
+
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+
+SubCapítulo: 01-MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+
+Unidad Ejecutora : 0001-SECRETARIADO ADMINISTRATIVO DE LA PRESIDENCIA
+
+Proceso : PAGO A FERRETERIA POPULAR, SRL, POR ADQUISICION DE SUMINISTROS DE
+MATERIALES PARA LA CONSTRUCCION DE VIVIENDAS AFECTADOS DE HURACAN
+FIONA
+
+No. Referencia :
+
+Monto Total Proceso :
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No. 345-21 que permite suscribir contratos de compra de bienes, obras y servicios o
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017, De acuerdo al siguiente detalle :
+
+Presupuestaria Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+2.3.1.4.01 Madera, corcho y sus manufacturas 42,039,211.00
+2.3.6.3,06 Productos metálicos 17,144,090,20
+
+Total 59,183,301.20
+El monto de : **Cincuenta y nueve millones ciento ochenta y tres mil trescientos un con 20/100
+
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+; 2022.0201.01.0001.9743-Versión 1 11/10/2022 59,183,301.20
+Beneficiario
+
+Código Nombre Moneda Original
+101029358 Ferreteria Popular, SRL 59,183,301,20
+Total 59,183,301.20
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-
+sigef.hacienda.gob.do/servicios/general/reporte/publico/RP1665495366863H3q82q4H34
+
+Certificado de Apropiación Presupuestaria No.: EG1665087652671WI581
+
+
+

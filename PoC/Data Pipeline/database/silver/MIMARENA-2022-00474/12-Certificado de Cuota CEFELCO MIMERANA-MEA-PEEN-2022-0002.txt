@@ -1,0 +1,64 @@
+--- Page 1 ---
+GOBIERNO DE LA
+
+REPÚBLICA DOMINICANA Página 1 de 1
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+Sistema de Información de la Gestión Financiera.
+Período Fiscal : 2022 No. Expediente :
+2022 No. Documento : EG 1668437961679ZpGXH
+Fecha
+| po | mm | ARA
+Capítulo : 0218-MINISTERIO DE MEDIO AMBIENTE Y RECURSOS NATURALES
+SubCapítulo: 01-MINISTERIO DE MEDIO AMBIENTE Y REC. NAT.
+
+0001-MINISTERIO DE MEDIO AMBIENTE Y RECURSOS NATURALES
+
+COMPROMISO SOLICITUD ++ 61 MIMARENA-MAE-PEEN-2022-0002 ADQ. MATERIALES
+PARA RECONSTRUCCION VIVIENDAS EN LA ISLA SAONA, SOLICITADO POR
+DIRECCION ADMINISTRATIVO
+
+Unidad Ejecutora :
+
+Proceso :
+
+No. Referencia :
+
+Monto Total Proceso :
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No. 345-21 que permite suscribir contratos de compra de bienes, obras y servicios o
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+Presupuestaria Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+2.3.1.4.01 Madera, corcho y sus manufacturas 1,608,715.14
+2.3.2.1.01 Hilados, fibras, telas y útiles de costura 1,049.96
+2.3.5.5.01 Plástico 65,730.48
+2.3.6.1.04 Productos de yeso 34,759.85
+2.3.6.3.04 Herramientas menores 33,913.61
+2.3.6.3.06 Productos metálicos 5,821,091.17
+2.3.9.6.01 Productos eléctricos y afines 78,249.08
+2.3.9.9.04 Productos y útiles de defensa y seguridad 4,100.03
+2.6.5.7.01 Máquinas-herramientas 177,038.02
+
+Total 7,824,647.34
+El monto de : *Siete millones ochocientos veinticuatro mil seiscientos cuarenta y siete con 34/100
+
+Número de Compromiso Fecha de Compromiso
+2022.0218.01.0001.8895-Versión 1 14/11/2022 7,824,647.34
+
+Beneficiario
+Código Nombre Moneda Original
+131198457 Centro Ferretero Los Constructores, S.A. (CEFELCO) 7,824,647.34
+Total 7,824,647.34
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-sigef.hacienda.gob.do/servicios/general/reporte/publico/RP 166843855361 2tA9Et1FxhU ¡SIGEF)
+
+Certificado de Apropiación Presupuestaria No.: EG1665589846239uTcLm
+
+

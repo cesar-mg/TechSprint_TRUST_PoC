@@ -1,0 +1,182 @@
+--- Page 1 ---
+F No. 1 Aprobado por el Contralor General de la República
+
+(¡Sistema de Información de la Gestión Financiera
+
+Entrada de Diario de Transacciones
+
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y Página 1 de 1
+Aplicaciones Financieras) 22/11/2022 3:06 PM
+
+01200919973 - SIGEF
+
+eg_formulario2.jrxml
+
+€—
+
+SECCION 1A: DATOS CABECERA SUPERIOR Número y Versión : 3546-1
+
+Fecha Registro : 19/10/2022 o
+Presupuesto ¿. Fecha Imputación : 19/10/2022 5
+Cápitulo : 0201 PRESIDENCIA DE LA REPÚBLICA S
+SubCápitulo - 06 MINISTERIO DE LA PRESIDENCIA a
+DAF : 01 MINISTERIO DE LA PRESIDENCIA <
+
+UE : 0004 SERVICIO INTEGRAL DE EMERGENCIAS
+
+SECCION 1B: DATOS CABECERA MEDIANA Financiero
+
+Tipo Transacción : PREVISION (Proceso Compra) Tipo de Norma : Oficio
+
+Comp A. q] pa q] PS q] Desc. Norma : DAF-2022
+
+Donación
+
+Etapa del Gasto :
+
+Documento de Ref.: '
+Préstamo
+
+SECCION 1C: DATOS CABECERA INFERIOR
+
+Totales por Moneda
+
+Tipo de Gasto Valores ET
+PESOS DOMINICANOS Pesos Dominicanos
+
+Total General 24,754,783.27 24,754,783.27 24,754,783.27
+
+Agrupador : Productos y Utiles Varios
+
+Concepto : Adquisición de Baterias para Sistema de Respaldo de los Puntos de Cámara y BTS de Sitios de Radiocomunicaciones del Sistema Nacional de
+Atención a Emergencias y seguridad 9-1-1.
+
+Coletilla
+
+Código Deuda
+
+DOCUMENTOS DE RESPALDO
+
+SECCION 1D: BENEFICIARIOS
+
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+Institución Programática Fuente Ubic. Geo Específico A
+Cap-Dep-Daf-Ue | Pra-Prod-Pry-Act | Fue-Fxp-Org | Reg-Prov.Mun CCP-Ref.Fun-O! = ip-Tip. DesejlBción del Programa EA a
+10201-06-01-0004 112-02-00-0001 10-0100-100 [98-99-9999 2.3.9.6.01-1.3.02- Ey [Servicio integral de 24,754,783.27| 24,754,783.27|
+/00000-0000 mergencias
+
+SECCION 1F: PIE DEL DOCUMENTO [S a A
+Firmas Autorizadas para el docum 0.2022.0201.06.0004.3546-1
+
+Ue
+
+Respons. Unidad Ejecutora
+
+Aprobación Libramiento CGR
+
+
+--- Page 2 ---
+IN
+
+REPÚBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE APROPIACION PRESUPUESTARIA.
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+2022 No. Documento : EG1666204207683GRSQ4
+
+AAAA
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+Sub Capítulo: 06-MINISTERIO DE LA PRESIDENCIA
+Unidad Ejecutora : 0004-SERVICIO INTEGRAL DE EMERGENCIAS
+Proceso : Adquisición de Baterías para Sistema de Respaldo de los Puntos de Cámara y BTS de Sitios
+
+de Radiocomunicaciones del Sistema Nacional de Atención a Emergencias y seguridad 9-1-
+4,
+
+No. Referencia :
+Monto Total Proceso : 24,754,783.27
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA que el Presupuesto General del Estado para el año 2022, aprobado por Ley No.345-21, dispone de
+balance de Apropiación Presupuestaria suficiente para iniciar procesos de contratación de bienes, obras y
+servicios por el monto indicado en este documento, en cumplimiento a lo establecido en el Decreto 15-17 del 08
+febrero de 2017. De acuerdo al siguiente detalle :
+
+Cuenta a desen ,
+Presupuestaria Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+2.3.9.6.01 Productos eléctricos y afines 24,754,783.27
+Total 24,754,783.27
+El monto de : “Veinticuatro millones setecientos cincuenta y cuatro mil setecientos ochenta y tres
+
+Número de Preventivo Fecha de Preventivo Monto de Preventivo
+2022.0201.06.0004.3546-Versión 1 19/10/2022 24,754,783.27
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-
+sigef.hacienda.gob.do/servicios/general/reporte/publico/RP 1666206898795260GHr7LCh ¡SIGEF
+
+
+
+--- Page 3 ---
+IN
+
+REPÚBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+
+No. Documento : EG1668196736191gTwuC
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+
+SubCapítulo: 06-MINISTERIO DE LA PRESIDENCIA
+
+Unidad Ejecutora : 0004-SERVICIO INTEGRAL DE EMERGENCIAS
+
+Proceso : Adquisición de Baterías para Sistema de Respaldo de los Puntos de Cámara y BTS de Sitios
+
+de Radiocomunicaciones del Sistema Nacional de Atención a Emergencias y seguridad 9-1-
+1.ref. 911-MAE-PEEN-2022-0002
+
+No. Referencia :
+Monto Total Proceso :
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No. 345-21 que permite suscribir contratos de compra de bienes, obras y servicios o
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+Cuenta s lanid A
+Presupuestaria Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+2.3.9.6.01 Productos eléctricos y afines 18,224,991.92
+Total 18,224,991.92
+El monto de : **Dieciocho millones doscientos veinticuatro mil novecientos noventa y un con 92/100
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+2022.0201.06.0004.3927-Versión 1 15/11/2022 18,224,991.92
+Beneficiario
+Código Nombre Moneda Original
+130996598 Santana Germán Supply Battery Solar, SRL 18,224,991.92
+Total 18,224,991.92
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-sigef.hacienda.gob.do/servicios/general/reporte/publico/RP16685167667210qSFhiLxyT ¡SIGEF?
+
+Certificado de Apropiación Presupuestaria No.: EG1666204207683GRSQ4
+
+
+

@@ -1,0 +1,169 @@
+--- Page 1 ---
+F tío. 1 Aprobado por el Contralor General de la República
+
+Sistema de Información de la Gestión Financiera
+
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y
+
+SECCION 1A: DATOS CABECERA SUPERIOR
+Presupuesto : 2022
+Cápitulo : 0210
+SubCápitulo pp
+
+DAF 2pI
+
+Entrada de Diario de Transacciones
+
+Aplicaciones Financieras)
+
+Número y Versión
+Fecha Registro
+
+Focha Imputación
+MINISTERIO DE AGRICULTURA
+MINISTERIO DE AGRICULTURA
+MINISTERIO DE AGRICULTURA
+
+UE : MINISTERIO DE AGRICULTURA
+
+SECCION 1B: DATOS CABECERA MEDIANA
+
+Tipo Transacción :
+Etapa del Gasto :
+
+Documento de Ref.:
+SECCION 1C: DATOS CABECERA INFERIOR
+
+Tipo de Gasto
+
+Presupuestario 149,034,760.00
+
+Total General 149,034,760.00
+
+Agrupador
+
+Concepto
+
+FIONA. SEGUN DOC, ANEXOS
+Coletilla 8
+
+Código Deuda
+
+DOCUMENTOS DE RESPALDO
+
+SECCION 1D: BENEFICIARIOS
+
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+PREVENTIVO PROCESO DE COMPRAS PARA BIENES MUEBLES Y OBRAS
+
+Prov [Ss ] comp [N ] Dew | Lib | Pag [nv]
+
+eg_formulario2.jrxml
+
+Página 1 de 1
+
+12/12/2022 2:58 PM
+
+00102729639 - SIGEF
+
+: 74441
+: 12/10/2022
++ 12/10/2022
+
+Financiero
+Tipo de Norma
+Desc. Norma
+Donación
+Préstamo
+
+[E]
+
+Totales por Moneda
+
+| concepto — | PESOS DOMINICANOS
+
+Pesos Dominicanos
+
+149,034,760.00
+
+CN
+
+; Calamidades y Emergencias por Fenómenos Naturales - Huracán Fiona
+
+149,034,760,00
+
+: PARA CUBRIR PROCESO DE COMPRAS, SERVICIO DE ROTULACION DE 200,000 TAREAS DE TERRENOS EN LABORES DE CORTE Y CRUCE,
+PARA LA SIEMBRA DE DIFERENTES RUBROS, CON TRACTORES PRIVADOS, EN LAS DISTINTAS PROVINCIAS AFECTADAS POR EL HURACAN
+
+Aprobado
+
+Institución Programática Fuente Ubic. Geo Específico Snip
+Cap-Dep-DafUe | Prg«Prod-Pry-Act | Fue-Fxp-Org | Reg-ProvMun CCP-Ref Fun-Obj+lRec Snip-Tip Descnipción del Programa OÍ Ud
+O2IO-D1-01-0001  [03-00-00-0002 [SO S01i-109 [98-99-9999 — |27.2.6.01-2201-001 Actividades comunes a los 149,034,760.00| — 149,034,760.00|
+[p0000-0000 ¡programas 11 y 14
+
+SECCION 1F: PIE DEL DOCUMENTO
+
+Firmas Autorizadas para el documento de Gasto No. 2022.0210.01.0001.7444-1
+
+Rospónsgble de Registro,
+
+Aprobación Libramiento CGR
+
+/
+
+
+--- Page 2 ---
+ñi
+UN,
+A a
+GOBIERNO DE LA
+REPÚBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE APROPIACION PRESUPUESTARIA.
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+[Fecna: [E EA No. Documento : EG1665608136151xkuJO
+| oo | mu | aña |
+Capítulo : 0210-MINISTERIO DE AGRICULTURA
+Sub Capítulo: 01-MINISTERIO DE AGRICULTURA
+Unidad Ejecutora : 0001-MINISTERIO DE AGRICULTURA
+Proceso : PARA CUBRIR PROCESO DE COMPRAS, SERVICIO DE ROTULACION DE 200,000
+
+TAREAS DE TERRENOS EN LABORES DE CORTE Y CRUCE, PARA LA SIEMBRA DE
+DIFERENTES RUBROS CON TRACTORES PRIVADOS, EN LAS DISTINTAS PROVINCIAS
+AFECTADAS POR EL HURACAN FIONA. SEGUN DOC. ANEXOS
+
+No. Referencia :
+Monto Total Proceso : 149,034,760.00
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA que el Presupuesto General del Estado para el año 2022, aprobado por Ley No.345-21, dispone de
+balance de Apropiación Presupuestaria suficiente para iniciar procesos de contratación de bienes, obras y
+servicios por el monto indicado en este documento, en cumplimiento a lo establecido en el Decreto 15-17 del 08
+febrero de 2017. De acuerdo al siguiente detalle :
+
+=
+Cuenta ; ES :
+Presupuestaria | Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+2.7.2.6.01 [Infraestructura y plantaciones agrícolas 149,034,760.00
+Total | 149,034,760.00 /
+El monto de : **Ciento cuarenta y nueve millones treinta y cuatro mil setecientos sesenta con 00/100
+
+Número de Preventivo Fecha de Preventivo Monto de Preventivo
+2022.0210.01.0001.7444-Versión 1 12/12/2022 149,934,760.00
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-
+sigef.hacienda.gob.do/servicios/general/reporte/publico/RP1670871466587EOrx08n7dQ EAT
+
+
+

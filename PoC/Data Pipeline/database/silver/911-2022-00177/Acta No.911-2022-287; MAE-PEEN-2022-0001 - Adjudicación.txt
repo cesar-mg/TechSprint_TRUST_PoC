@@ -1,0 +1,955 @@
+--- Page 1 ---
+Acta de Adjudicación
+Acta No. 911-2022-287
+
+COMITÉ DE COMPRAS Y CONTRATACIONES
+SISTEMA NACIONAL DE ATENCIÓN A EMERGENCIAS Y SEGURIDAD 9-1-1
+
+Referencia No.: 911-MAE-PEEN-2022-0001
+
+En el salón de reuniones del SISTEMA NACIONAL DE ATENCIÓN A EMERGENCIAS Y SEGURIDAD 9-
+1-1 (Sistema 9-1-1), ubicado en la avenida Abraham Lincoln Núm. 69, esquina calle Doctor Núñez y
+Domínguez, sector La Julia, Santo Domingo de Guzmán, Distrito Nacional, capital de la República
+Dominicana, en el día de hoy, que contamos a diez (10) de noviembre de dos mil veintidós (2022), se
+reunieron los miembros del Comité de Compras y Contrataciones de esta institución, señores: Coronel
+Piloto Randolfo Rijo Gómez, E.R.D., Director Ejecutivo y Presidente del Comité; Fausta E. Quevedo
+Familia, Directora Administrativa y Financiera; Carlos De León Castillo, Director Jurídico y Asesor
+Legal del Comité; Lourdes Florentino, Directora de Planificación y Desarrollo y miembro; Arlyn
+Dihmes, Responsable de la Oficina de Libre Acceso a la Información y miembro; todos de conformidad
+con la convocatoria hecha al efecto por el Asesor Legal del Comité. De inmediato, el Director Ejecutivo y
+Presidente del Comité, dio apertura a la sesión de trabajo, comunicando alos presentes que esta reunión
+fue convocada para conocer y decidir lo que se indica a continuación:
+
+AGENDA:
+PRIMERO: CONOCER y PONDERAR los Informes elaborados por los peritos evaluadores en el
+marco del Procedimiento de Compra y/o Contratación para la “Adquisición de Herramientas
+y Materiales para la Resolución de Averías provocadas por el paso del Huracán Fiona, en
+la Planta Externa de Videovigilancia del Sistema Nacional de Atención a Emergencias y
+Seguridad 9-1-1;” Procedimiento de Referencia No.: 911-MAE-PEEN-2022-0001; que se
+indican a continuación:
+
+1. El Informe de Evaluación Financiera de las Ofertas Económicas (Sobres “B”), elaborado
+en fecha 3 de noviembre de 2022, por la perito financiero, señora Annabelle Tatis
+Sención, quien se desempeña como Encargada del Departamento Financiero de la
+Dirección Administrativa y Financiera del Sistema 9-1-1.
+
+2. El Informe de Evaluación Técnica de las Ofertas Económicas (Sobres “B”) y
+Recomendación de Adjudicación, elaborado en fecha 4 de noviembre de 2022, por los
+peritos técnicos del proceso, señores Murphy Váldez, Felix Joan Olivo, Soriangy
+Hernández, Carlos George y Joseph Tovar, quienes se desempeñan como Analista
+Técnico de Video Vigilancia, Administrador de Sistemas de Video Vigilancia, Encargado
+de la División de Redes y Comunicaciones, Encargado de Operaciones TIC y Director de
+Video Vigilancia (todos del Sistema 9-1-1), respectivamente.
+
+SEGUNDO: DELIBERAR respecto a las conclusiones y/o recomendaciones vertidas en los
+informes precitados, y, en consecuencia, DISPONER todas las medidas e instrucciones afines a
+la naturaleza legal y administrativa de la resolución a intervenir.
+
+TERCERO: ORDENAR a la Unidad Operativa de Compras y Contrataciones y a la Oficina de
+
+Acceso a la Información Pública del Sistema 9-1-1, realizar todas las publicaciones que resulten
+pertinentes, de conformidad con la legislación aplicable. == ooo
+
+Dando inicio de inmediato al conocimiento y discusión de los temas pautados, el Director Jurídico,
+Miembro y Asesor Legal del Comité puso a disposición de los presentes el expediente administrativo
+
+1de 15
+
+FE
+
+
+
+--- Page 2 ---
+mencionado en la agenda de esta reunión, cuyos documentos forman parte integral y vincu
+presente Acta.
+
+VISTA: La Constitución de la República Dominicana, proclamada en fecha trece (13) del m
+del año dos mil quince (2015).
+
+VISTA: La Ley No. 184-17, de fecha veinticuatro (24) del mes de julio del año dos mil diecisiete
+que crea el Sistema Nacional de Atención a Emergencias y Seguridad (911).
+
+VISTA: La Ley No. 340-06 sobre Compras y Contrataciones Públicas de Bienes, Obras, Servicios y
+Concesiones, promulgada en fecha seis (6) del mes de diciembre del año dos mil seis (2006).
+
+VISTO: El Decreto No. 543-12 que aprueba el Reglamento de Aplicación de la Ley No. 340-06 y su
+modificación, emitido en fecha seis (6) del mes de septiembre del año dos mil doce (2012).
+
+VISTO: El Instructivo de Selección de Peritos del Sistema Nacional de Compras y Contrataciones Públicas,
+aprobado mediante la Resolución Núm. PNP-07-2020, dictada por la Dirección General de Contrataciones
+Públicas en fecha 21 de septiembre de 2020.
+
+VISTO: El Decreto No. 537-22, dictado por el Presidente Luis R. Abinader Corona, en fecha 19 de
+septiembre de 2022, autorizando la realización de procedimientos de Compra y Contratación de
+Emergencias, por motivo de los daños generados por el huracán Fiona.
+
+VISTO: El Decreto No. 589-22, dictado por el Presidente Luis R. Abinader Corona, en fecha 11 de octubre
+de 2022, incluyendo al Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1, entre las entidades
+autorizadas a realizar procedimientos de Compra y Contratación de Emergencias, por motivo de los daños
+generados por el huracán Fiona.
+
+Murphy Valdez, Felix Joan Olivo, Soriangy Hernández, Carlos George y Joseph Tovar, en sus
+respectivas calidades de Analista Técnico de Video Vigilancia, Administrador de Sistemas de Video
+Vigilancia, Encargado de la División de Redes y Comunicaciones, Encargado de Operaciones TIC y Director
+de Video Vigilancia (Todos del Sistema 9-1-1).
+
+VISTO: El Escrito de Justificación Técnica de Procedimiento de Excepción elaborado por los señores (Dd
+
+VISTO: El Requerimiento No. REQ. 0004350, aprobados por la Dirección Ejecutiva del Sistema 9-1-1, en 2
+fecha 14 de octubre de 2022, con motivo del tratado procedimiento de Compra y/o Contratación.
+
+VISTA: La Comunicación No. 127, suscrita en fecha 17 de octubre de 2022, por Dorali Jiménez, Encargada Aa
+de la División de Compras y Contrataciones del Sistema 9-1-1; consistente en solicitud para “La
+
+Adquisición de Herramientas y Materiales para la Resolución de Averías provocadas por el paso del Huracán Y
+Fiona, en la Planta Externa de Videovigilancia del Sistema Nacional de Atención a Emergencias y Seguridad Kn
+9-1-1.”
+
+VISTO: El Estudio de Precios elaborado en fecha 17 de octubre de 2022, por Dorali Jiménez, quien
+ostenta el cargo de Encargada de la División de Compras y Contrataciones del Sistema 9-1-1.
+
+VISTA: La Certificación de Existencia de Fondos, de fecha 17 de octubre de 2022, emitida por la Lic.
+Fausta Quevedo, Directora Administrativa y Financiera del Sistema 9-1-1, por la suma de Trece
+Millones Cuatrocientos Setenta y Ocho Mil Quinientos Setenta y Siete Pesos Dominicanos con
+81/100 (RD$13,468,577.81), para “La Adquisición de Herramientas y Materiales para la Resolución de
+Averías provocadas por el paso del Huracán Fiona, en la Planta Externa de Videovigilancia del Sistema
+
+Nacional de Atención a Emergencias y Seguridad 9-1-1.” SL
+
+2de 1
+
+
+
+--- Page 3 ---
+VISTAS: Las Especificaciones Técnicas revisadas y/o elaboradas definitivamente en fi
+octubre de 2022, por los señores Vinicio Montero, Yajaira Siri y Penélope Valdéz;
+desempeñan como Encargado del Departamento de Formulación, Monitoreo y Evaluación de
+
+Programas y Proyectos (el primero) y Gestoras de Proyectos (las dos últimas); todos del Sist: fa
+NS
+
+Zo
+
+COMITE DECOMFRAS E
+Y CONTRATACIONES —(L
+
+VISTAS: Las Condiciones Generales elaboradas y/o revisadas definitivamente en fecha 18 ¿
+de 2022, por el Departamento de Elaboración de Documentos Legales del Sistema 9-1-1, con mo:
+procedimiento de Compra y/o Contratación de Referencia No.: 911-MAE-PEEN-2022-0001.
+
+bre .
+o o. O
+
+VISTA: El Acta No.911-2022-251, de la reunión celebrada por este Comité en fecha 20 de octubre de 2022,
+en la que se aprobó la única enmienda realizada en el marco del tratado procedimiento de Contratación
+Pública.
+
+VISTO: El Acto No. 18-2022, instrumentado en fecha veintiséis (26) de octubre de dos mil veintidós
+(2022), por el Notario Público Dr. Bienvenido Acosta, que relata y da fe pública de todo lo acontecido en
+el Acto de Recepción de Ofertas Técnicas y Económicas (Sobres “A” y “B”) y de Apertura de Ofertas
+Técnicas (Sobres “A”), celebrado en el marco del señalado procedimiento de contratación.
+
+VISTAS: Las ofertas presentadas por los oferentes participantes que se indican a continuación: 1)
+TECNOFIJACIONES DE DOMINICANA, S.R.L., 2) GILGAMI GROUP, S.R.L., 3) B 8 F MERCANTIL, S.R.L. y
+4) APLEX SECURITY, S.R.L.
+
+VISTO: El Informe Definitivo de Evaluación Técnica del Sobre “A”, elaborado en fecha 26 de octubre de
+2022, por los peritos técnicos del proceso, señores Murphy Váldez, Felix Joan Olivo, Soriangy
+Hernández, Carlos George y Joseph Tovar; quienes se desempeñan como Analista Técnico de Video
+Vigilancia, Administrador de Sistemas de Video Vigilancia, Encargado de la División de Redes y
+Comunicaciones, Encargado de Operaciones TIC y Director de Video Vigilancia (todos del Sistema 9-1-1),
+respectivamente.
+
+N
+VISTA: El Acta No.911-2022-278, de la reunión celebrada por este Comité en fecha 28 de octubre de 2022,
+mediante la cual fueron aprobados los Informes de las Evaluaciones Periciales Preliminares practicadas a
+
+propósito del tratado procedimiento de contratación y se acogieron sus recomendaciones.
+
+VISTO: El Informe de Evaluación Jurídica de las Ofertas Técnicas (Informe Preliminar), elaborado en fecha
+2 de noviembre de 2022, por la perito legal, señor Patricia Comprés, quien se desempeña como Abogada )
+de la Dirección Jurídica del Sistema 9-1-1.
+
+VISTO: El Informe de Evaluación Financiera de las Ofertas Económicas (Sobres “B”), elaborado en fecha 3 A
+de noviembre de 2022, por la perito financiero, señora Annabelle Tatis Sención, quien se desempeña
+como Encargada del Departamento Financiero de la Dirección Administrativa y Financiera del Sistema 9- ES
+
+1-1.
+
+VISTO: El Informe de Evaluación Técnica de las Ofertas Económicas (Sobres “B”) y Recomendación de LE
+Adjudicación, elaborado en fecha 4 de noviembre de 2022, por los peritos técnicos del proceso, señores
+Murphy Váldez, Felix Joan Olivo, Soriangy Hernández, Carlos George y Joseph Tovar, quienes se
+desempeñan como Analista Técnico de Video Vigilancia, Administrador de Sistemas de Video Vigilancia,
+Encargado de la División de Redes y Comunicaciones, Encargado de Operaciones TIC y Director de Video
+Vigilancia (todos del Sistema 9-1-1), respectivamente.
+
+VISTO: El Acto No. 19-2022, instrumentado en fecha 2 de noviembre de 2022, por el Notario Público Lic.
+
+Bienvenido Acosta, en el que se hace constar todo lo acontecido en el Acto de Apertura de Ofertas
+
+Económicas (Sobres “B”), celebrado en el marco del tratado procedimiento de contratación pública. =
+4
+
+3 de 15
+
+
+
+--- Page 4 ---
+CONSIDERANDO: Que en la parte resolutiva de la citada Acta No. 911-2022-240, de la reunión celebrada
+por este Comité en fecha 18 de octubre de 2022, fueron designados como peritos evaluadores del tr;
+procedimiento de contratación los profesionales y/o técnicos que se indica a continuación:
+
+CONSIDERANDO: Que, en el marco del tratado procedimiento de selección y conforme al cronograma
+publicado, en fecha veintiséis (26) de octubre de dos mil veintidós (2022), fue celebrado el Acto de
+Recepción de Ofertas Técnicas y Económicas (Sobres “A” y “B”), y de Apertura de Ofertas Técnicas (Sobres
+“A”). Que dicho acto fue celebrado ante la presencia del Notario Público del Distrito Nacional, Bienvenido
+Acosta, quien dio fe pública de todo lo acontecido en el mismo; haciendo constar, en el Acto No. 18-2022,
+de esa misma fecha, la recepción de ofertas presentadas por las empresas que se indican a continuación:
+1) TECNOFIJACIONES DE DOMINICANA, S.R.L., 2) GILGAMI GROUP, S.R.L., 3) B 8: F MERCANTIL, S.R.L.
+y 4) APLEX SECURITY, S.R.L.
+
+CONSIDERANDO: Que los funcionarios responsables del análisis y evaluación de las ofertas presentadas,
+ya en la etapa de calificación o de comparación económica, deben dejar constancia en informes, con todos
+los justificativos de su actuación, así como las recomendaciones para que la autoridad competente pueda
+tomar decisión sobre la adjudicación.
+
+CONSIDERANDO: Que corresponde al Comité de Compras y Contrataciones aprobar, si procede, el
+informe definitivo de evaluación de ofertas técnicas “Sobre A”, y emitir el acta correspondiente, ordenar
+a la Unidad Operativa de Compras y Contrataciones la notificación de los resultados definitivos del
+proceso de evaluación y validación de ofertas técnicas “Sobre A” y con ello los oferentes habilitados para
+la apertura y lectura de sus ofertas económicas “Sobre B” (Ver Art. 94 del Decreto No. 543-12; Citado).
+
+CONSIDERANDO: Que mediante la citada Acta No. 911-2022-278, de fecha 28 de octubre de 2022, este
+Comité aprobó y acogió las recomendaciones vertidas en los Informes Preliminares de Evaluación
+Jurídica, Técnica y Económica que se indican a continuación: 1) El Informe Consolidado de Evaluación
+Jurídica de las Ofertas Técnicas (Informe Preliminar), elaborado en fecha 27 de octubre de 2022, por la
+perito legal, señora Patricia Comprés, quien se desempeña como Abogada de la Dirección Jurídica del
+Sistema 9-1-1; 2) El Informe Consolidado de Evaluación Financiera de las Ofertas Técnicas (Informe
+Preliminar), elaborado en fecha 27 de octubre de 2022, por la perito financiero, señora Annabelle Tatis
+Sención, quien se desempeña como Encargada del Departamento Financiero de la Dirección
+Administrativa y Financiera del Sistema 9-1-1; y 3) El Informe Consolidado de Evaluación Técnica del
+Sobre “A” (Informe Preliminar), elaborado en fecha 26 de octubre de 2022, por los peritos técnicos del
+proceso, señores Murphy Váldez, Felix Joan Olivo, Soriangy Hernández, Carlos George y Joseph
+Tovar; quienes se desempeñan como Analista Técnico de Video Vigilancia, Administrador de Sistemas de
+Video Vigilancia, Encargado de la División de Redes y Comunicaciones, Encargado de Operaciones TIC y
+Director de Video Vigilancia (todos del Sistema 9-1-1), respectivamente. Que, al tenor de los informes
+señalados, este Comité procedió a solicitar Subsanaciones y/o Aclaraciones de sus ofertas a los oferentes
+participantes que se indican a continuación: 1) APLEX SECURITY, S.R.L., 2) TECNOFIJACIONES DE
+DOMINICANA, S.R.L., Y 3) GILGAMI GROUP, S.R.L.
+
+4 de 15
+
+Función Nombres Cargos / 07 > S
+==
+Peritos Señores: Analista Técnico de Video Vigilancia] Ads
+Técnicos Murphy  Váldez, Felix Administrador de Sistemas de Video Y OQITE DE COMPRAS — E
+Joan Olivo, Soriangy Vigilancia, Encargado de la División de NY TRATACIONES $
+Hernández, Carlos Redes y Comunicaciones, Encargado de N o. dao RO:
+George y Joseph Tovar Operaciones TIC y Director de Video AS
+Vigilancia; respectivamente.
+Perito Legal José A. Jiménez C. Analista Legal de la Dirección Jurídica del
+Sistema 9-1-1
+Perito Annabelle Tatis Sención Encargada del Departamento Financiero
+Financiero de la Dirección Administrativa y
+Financiera del Sistema 9-1-1
+
+MES
+
+L= FlAm Y
+
+|
+
+mos
+
+
+
+--- Page 5 ---
+CONSIDERANDO: Que este Comité, luego de transcurrido el período pautado para la contesta
+Subsanaciones y/o Aclaraciones requeridas, partiendo de las conclusiones vertidas en 1
+Informes Definitivos de Evaluación de las Ofertas Técnicas (Sobres “A”), conforme a lo dispues)
+condiciones generales del proceso, procedió a dar apertura y lectura a las ofertas económicas pre:
+por las empresas APLEX SECURITY, S.R.L., TECNOFIJACIONES DE DOMINICANA, S.R.L. Y Gl
+GROUP, S.R.L.; luego de haber dispuesto, al tenor de los citados informes, la desestimación de la”
+propuesta presentada por la sociedad comercial B 8: F MERCANTIL, S.R.L., por esta no haber cumplido la
+
+totalidad de los requerimientos técnicos, jurídicos y/o financieros establecidos para el tratado
+procedimiento.
+
+3
+2
+
+Ú
+
+«
+
+E
+
+a
+
+<
+
+DE COMPRAS SW
+TACIONES IS
+/
+
+CONSIDERANDO: Que este Comité ha examinado el citado Informe Definitivo de Evaluación Financiera
+de las Ofertas Económicas (Sobres “B”), elaborado en fecha 3 de noviembre de 2022, por la perito
+financiero, señora Annabelle Tatis Sención; cuyas conclusiones se transcriben a continuación:
+
+“Les comunico que he completado el proceso de evaluación económica referente a la PEEN antes citada los
+precios ofertados para cada ítem están dentro del rango de precio estimado, cabe considerar que no
+ofrecieron precios en todos los ítems ofertados.
+
+Las ofertas económicas presentadas en los sobres B recibida por los oferentes arrojaron el siguiente
+
+resultado,
+GILGAMI GROUP, SRL TECNOFIJACIONES, SRL APLEX SECURITY, SRL
+(.”) RD$3,346.370.56 RD$1,927,503.80 RD$1,888,327.57
+
+CONSIDERANDO: Que, asimismo, este Comité ha examinado el citado Informe Definitivo de Evaluación
+Técnica de las Ofertas Económicas (Sobres “B”) y Recomendación de Adjudicación, elaborado en fecha
+4 de noviembre de 2022, porlos peritos técnicos del proceso, señores Murphy Váldez, Felix Joan Olivo,
+
+Soriangy Hernández, Carlos George y Joseph Tovar; cuyas conclusiones se transcriben a
+continuación:
+
+“Hemos procedido a analizar las propuestas económicas y concluimos que los precios habilitados son
+coherentes según los valores referenciales del mercado en productos similares. Adjunto a este documento
+enviamos la matriz de análisis sobre la propuesta económica de cada uno de los oferentes habilitados.”
+
+CONSIDERANDO: Que este Comité, mediante la revisión de los citados informes periciales, ha podido
+constatar que los oferentes que cumplieron los requisitos establecidos para la evaluación de sus ofertas
+económicas, no presentaron propuestas respecto a los ítems que se indican a continuación: 1, 5, 6, 7,
+8, 9, 12, 13, 15, 16, 17, 18,19, 22, 25,26, 36, 38, 46, 48, 61, 62, 63, 66, 67, 72,75, 77,78, 79, 83,
+84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 111, 112, 113, 119, 120, 121, 122, 126, 127, 128, 130, 133,
+139, 142 y 143. Que, en consecuencia, resulta procedente declarar parcialmente desierto el presente
+
+procedimiento, en cuanto a los ítems indicados, tal y como se dispondrá en la parte resolutiva de la
+presente Acta.
+
+OL mo
+
+CONSISERANDO: Que, asimismo, este Comité mediante el examen de los tratados informes periciales,
+ha determinado lo que se indica a continuación:
+
+1. Que, entre los oferentes que cumplieron los requisitos establecidos para la evaluación de sus
+ofertas económicas, la sociedad comercial APLEX SECURITY, SRL, presentó la mejor o única
+
+oferta respecto a los ítems que se indican a continuación:
+Provésdor Proveedores No Adjudicados
+Adjudicado
+5 de 15
+
+
+
+--- Page 6 ---
+Hebilla para fleje de
+1/2"
+
+50 UDS. | Fleje de 1/2" (rollo) |
+
+1000 UDS. No Habilitado
+
+19,033.40
+
+107,380.00 No Habilitado No Hab
+Alambre Preformado AN a
+| 1000 UDS. | 7/16" (Grip) 660,800.00 No Habilitado No Habilitado
+Brazo Tensor Para as as
+100 UDS. Fibra Óptica 191,750.00 No Habilitado No Habilitado
+
+Monto Total Adjudicado RD$ 978,963.40
+
+2. Que, entre los oferentes que cumplieron los requisitos establecidos para la evaluación de sus ofertas
+económicas, la sociedad comercial GILGAMI GROUP, SRL, presentó la mejor o única oferta respecto
+alos ítems que se indican a continuación:
+
+Proveedor
+
+Adjudicado Proveedores No Adjudicados
+
+120 UDS. Tape de Goma 164,639.74 No Habilitado 176,000.30
+3 300 UDS. Tape de Vinil 141,749.92 No Habilitado 152,000.52
+Grasa Dieléctrica Para sá i
+4 5 UDS. terminales eléctricos 5,355.02 No Habilitado No Habilitado
+10 40 UDS. Varilla de Tierra 21,599.81 No Habilitado 25,428.53
+Conector para varilla dá
+LA ++4BS: de Tierra 260002] NoBabilitado 3,428.61
+Cable desnudo de a” a
+14 200 PIE Cobre AWG-2 26,762.40 No Habilitado No Habilitado
+Terminal tipo Aguja si si
+20 200 UDS. ara cable AWG +10 1,210.68 No Habilitado No Habilitado
+Terminal de Ojo dí Si
+21 200 UDS. AWG12 1,274.40 No Habilitado No Habilitado
+Terminal de ojo para
+23 3000 UDS. cable de batería No Habilitado No Habilitado
+AWGH2 246,118.50
+24 70 UDS. Canaleta 13,938.75 No Habilitado No Habilitado
+Conductor Eléctrico cd
+23 2000: FIS AWG 8 Negro 29r9aa | No Habilitado 31,270.00
+Conductor Eléctrico 5
+33 500 PIE AWG 8 Rojo 14,639.67 No Habilitado 15,635.00
+Conductor Eléctrico y
+35 1000 PIE AWG 8 Verde 28,912.95 No Habilitado 31,270.00
+Toma Corriente
+37 50 UDS. Blanco Decorativo No Habilitado No Habilitado
+9,589.86
+Nema 5-15R
+Tie Wrap negro de E de
+39 99999 UDS. 14" 224,610.75 No Habilitado No Habilitado
+6 de 15
+
+$ 4S FOA
+
+¡
+
+
+
+--- Page 7 ---
+Breaker Modular dos
+
+40 10 UDS. olos; 40 Amp: 2,851.47 No Habilitado
+Breaker Modular dos si
+41 50 UDS. _ polos, 30 Amp. 14,735.25 No Habilitado
+Breaker Modular un En
+42 150 UDS. polo, 20 Amp. 25,314.36 No Habilitado
+Breaker Modular un as
+43 100 UDS. polo, 32 Amp. 15,133.50 No Habilitado
+Caja plástica 2x4” si
+bl ¿9UDS para tomacorriente 701.88 Dl
+Caja de registro
+45 30 UDS. eléctrico metálica 6x6 10,623.24 No Habilitado No Habilitado
+nema 3
+Caja de registro
+47 30 UDS. eléctrica plástica para No Habilitado No Habilitado
+: » 6,665.27
+exterior 6x6
+Candado de seguridad di
+49 20 UDS. ara exterior 20,414.00 No Habilitado No Habilitado
+50 40 UDS. Coupling EMT %” 539.71 No Habilitado No Habilitado
+Conector Recto EMT as |
+51 40 UDS. ya 539.71 No Habilitado No Habilitado
+52 100 UDS. Abrazadera EMT %” 269.22 No Habilitado No Habilitado
+
+Caja de Distribución
+
+53 50 UDS. Para Breaker De Riel No Habilitado No Habilitado
+bemari 45,514.96
+
+DIN 4 Circuitos
+
+Caja de Distribución
+
+54 30 UDS. Para Breaker De Riel No Habilitado No Habilitado
+a 12,216.54
+
+DIN 2 Circuitos
+
+Tubería Flexible %”
+
+(===
+
+55 1500 PIE e 7807208 No Habilitado | — No Habilitado
+56 250 UDS. O Tight 175sog8 | NoHabilitado | NoHabilitado
+57 500 PIE A he a 19,577.97 | NoHabilitado | No Habilitado
+58 500 PIE a Las 22.04510 | NoHabilitado | NoHabilitado 4
+59 500 PIE REA Y 39.625.001 NoHabilitado | NoHabilitado
+60 150 PIE | Conector liquia Tighe us1e7.e6 | No Habilitado | NoHabilitado >
+65 30 uns. | Kiide Mechas Tipo 1266435 | NoHabilitado | — NoHabilitado Y
+73 60 UDS. Tubo a 1025478 | NoHabilitado | — NoHabilitado La
+74 17 UDS. hr a 213.67 | NoHabilitado | NoHabilitado
+76 A (cad 60534 | NoHabilitado | No Habilitado
+80 4 UDS. Brocha Y% pulgada 108.32 No Habilitado No Habilitado
+81 4 UDS. Brocha 2 pulgadas 860.22 No Habilitado No Habilitado
+82 4 UDS. Brocha 4 pulgadas No Habilitado No Habilitado
+
+860.22 | MO mabrtado|  NotabPltado
+
+7de 15
+
+
+
+--- Page 8 ---
+Tuberia Liquid Tight
+
+94 200 PIE Anos 3875248 No Habilitado
+95 100 UDS. | "uberia FM Tight 2497505 | NO Habilitado
+96 200 UDS. AS q . 191160 | No Habilitado
+97 50 UDS, a ea 1 oss60 | No Habilitado
+98 souDs. | Aratadora IMA 111510 | No Habilitado
+9 O | No Habilitado | — No Habilitado
+100 20 UDS. Abrazadera Unitron 2" 1,369.98 No Habilitado No Habilitado
+
+Caja de Registro Zo >
+
+101 80 UDS. Plastica 100% 100x 13,381.20 No Habilitado No Habilitado
+102 Agos | ss 1160.98 | NoHabilitado | NoHabilitado
+103 50 UDS. ME 1792125 |  NoHabilitado|— No Habilitado
+106 so0 uns. | "ormilos ABC £mm x 2,508.08 | No Habilitado | No Habilitado
+107 500 UDS. hire cin Lo38.40 | No Habilitado | No Habilitado
+108 1000 UDS. bus E] 78 91250 NoHabilitado| No Habilitado |
+109 150 UDS. METAN $063.97 NO Habilitado | — No Habilitado
+110 5 LBS. Arandela plana 1/2 597.38 No Habilitado No Habilitado
+
+116 8 Uds. Flejadora 13,444.92 60,899.33 No Habilitado
+117 50 UDS. Rollo de Fleje No Habilitado
+
+SUSPENSIÓN CLAP
+TIPO (J)
+Terminal de Ojo para
+
+Cable +8 637.20
+Terminal de Ojo para
+Cable +t10 477.90
+Terminal de Aguja
+
+103,146.75 224,672.00
+6,359.26 623,795.20 No Habilitado
+
+118 2000 UDS.
+
+123 100 UDS. No Habilitado No Habilitado
+
+124 100 UDS. No Habilitado No Habilitado
+
+125 100 UDS. No Habilitado No Habilitado
+
+para Cable +8 637.20
+
+129 60 UDS. Riel Din 6,690.60 No Habilitado No Habilitado
+
+Cable Tensor de Acero
+131 1500 MTS. | Galvanizado (Rollo De
+100 Metros)
+
+132 600 uns. | GrapaGalvanizada No Habilitado | No Habilitado
+
+(S)
+$
+S
+A
+SE
+
+14,337.00 No Habilitado No Habilitado
+
+134 40 UDS. Silicón 29,160.16 No Habilitado No Habilitado
+
+Tarugo de Plomo De
+
+113 00'UDS, 1/2X 3/8 8,761.50
+Tarugo Plastico 9/32”
+X 1” Verde 509.76
+Tornillo Tirafondo 10
+X1-1/2 1,218.65
+
+No Habilitado No Habilitado
+
+136 500 UDS. No Habilitado No Habilitado
+
+137 500 UDS. No Habilitado No Habilitado
+
+Bdeli5 CA
+
+
+
+--- Page 9 ---
+| 138 | 400 UDS. | Tornillos 3/8 3,778.60 No Habilitado No Hab
+Escalera 16 Pies De 15
+| 152 | la | Fibra De Vidrio 9262499 NoHabilitado E
+Monto Total Adjudicado | RD$ 1,711,874.25 a JE
+Y CONTRATACIONES 5 ]
+3. Que, entre los oferentes que cumplieron los requisitos establecidos para la evaluaciás áfdeDgo. ao
+
+sus ofertas económicas, la sociedad comercial TECNOFIJACIONES DE DOMINICANA, SRL, presentó
+la mejor o única oferta respecto a los ítems que se indican a continuación:
+
+Proveedor mas
+Adjudicado Proveedores No Adjudicados
+Tecno nes
+
+Security, | Gigalmi
+SRL SRL
+
+27 2000 PIE a 21.594.001 No Habilitado | No Habilitado
+
+28 1000 PIE PRA 17.93600 1 NoHabilitado | No Habilitado
+
+30 1000 PIE ines REO ' iosega| "etibilaada 19,514.25
+
+31 1000 PIE il 31.270.001 No Habilitado | No Habilitado
+
+32 1000 PIE ojo AY ALO 17,936.00 |  NoHabilitado 19,514.25
+
+34 1000 PIE O PO 17,936.00 |  NoHabilitado 19,514.25
+
+64 10 UDS. ES pure le 13,298.60 1 No Habilitado 32,656.50
+
+70 1500 PIE iS e ena] NHsblitido 81,004.05 (SN
+CO | CPUTO | goma AWGH10,3 hilos Ne IE
+
+71 2500 PIE LEA 92,866.00 |  NoHabilitado 94,504.73
+
+104 «uns. | Piscodiamane?7” 3587.20] NoHabilitado 4,810.86 Y
+
+Cubo de Goma 5%
+
+105 2 UDS. Af p/ 830.99 | NoHabilitado 850.50
+
+140 20 UDS. Botas de Seguridad 144,746.59 No Habilitado No Habilitado Sh
+
+141 300 UDS. Regletas Eléctricas 119,998.92 No Habilitado 249,077.94 Y
+
+144 a 214,594.80 | NoHabilitado| 218700.04
+
+145 10 UDS. E. 1718.00 | No Habilitado | No Habilitado AN
+
+146 25 UDS. Juego de Pinzas 19,175.00 No Habilitado No Habilitado A
+
+147 10 UDS. Cutter (Cuchilla) 2,360.00 No Habilitado 8,602.20 |
+
+148 6 UDS. Cizalla el De OMS | NoHabilitado | ¡3608/01|
+
+149 5 UDS. Pulidora De 4-1/2" 26,609.00 No Habilitado 38,265.77
+
+9 de 15 Sa
+
+AT
+
+
+
+--- Page 10 ---
+e | aia | A Ñ | 8o00.0s | NoHabilitado 10,274.85 |
+
+de 4408 | ES | 10719998 | NoHabllitado 124,030.98 |
+
+153 5 UDS. | Serra De Mano De | 311.821.431 No Habilitado | No Habilitado
+
+154 6 UDS. Taladro Rotamartillo 155,969.99 No Habilitado No Habilitado
+Monto Total Adjudicado 1,454,741.94
+
+CONSIDERANDO: Que, al tenor de las consideraciones expuestas, este Comité ha podido establecer lo
+siguiente: 1) Que las empresas APLEX SECURITY, S.R.L., TECNOFIJACIONES DE DOMINICANA, S.R. LA.
+
+GILGAMI GROUP, S.R.L., calificaron para pasar a la fase de Evaluación de sus Ofertas Econó: Gas I0I0n .
+
+obteniendo un resultado parcialmente satisfactorio respecto a los ítems descritos en a S
+comparativos que figuran en el cuerpo de la presente Acta, conforme a las conclusiones vertidaspor los
+peritos evaluadores en los informes citados precedentemente, en los que se hace constar que dichas
+ofertas CUMPLEN con todos los requerimientos jurídicos, financieros y técnicos exigidos en ma (e
+
+¡e
+
+procedimiento; 2) Que las ofertas económicas de los oferentes fueron presentadas debid
+
+consideran los bienes ofertados en sus propuestas técnicas; 3) Que los precios presentados” AS
+
+- »
+TE DE Comer,
+MR
+
+oferentes se corresponden con los valores referenciales (precios de mercado); y 4) Que resultAoo *
+
+procedente adjudicar los ítems requeridos, a favor de los oferentes participantes que presentaron la mejor
+oferta económica (el precio menor o más bajo), respecto a cada uno de los señalados artículos, según lo
+plasmado en los cuadros comparativos de las ofertas económicas que se han hecho figurar ut supra.
+
+CONSIDERANDO: Que es obligación del Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1,
+garantizar que las compras de bienes y servicios que realice la institución sean realizadas con apego a la
+normativa vigente y a los principios de transparencia, libre competencia e igualdad de condiciones para
+todos los oferentes.
+
+POR LOS MOTIVOS ANTERIORMENTE EXPUESTOS y vistas las señaladas disposiciones legales,
+así como el Instructivo y demás documentos señalados precedentemente, este Comité de
+Compras y Contrataciones, por unanimidad de votos:
+
+PRIMERO: APRUEBA, sin ningún tipo de reparo o modificación, los Informes elaborados por los peritos
+evaluadores en el marco del Procedimiento de Excepción por Emergencia Nacional para la “Adquisición
+de Herramientas y Materiales para la Resolución de Averías provocadas por el paso del Huracán
+Fiona, en la Planta Externa de Videovigilancia del Sistema Nacional de Atención a Emergencias y
+Seguridad 9-1-1”, de Referencia No.: 911-MAE-PEEN-2022-0001; que se indican a continuación:
+
+1) El Informe de Evaluación Financiera de las Ofertas Económicas (Sobres “B”), elaborado en fecha
+3 de noviembre de 2022, por la perito financiero, señora Annabelle Tatis Sención, quien se
+desempeña como Encargada del Departamento Financiero de la Dirección Administrativa y
+Financiera del Sistema 9-1-1; y
+
+2) El Informe de Evaluación Técnica de las Ofertas Económicas (Sobres “B”) y Recomendación de
+Adjudicación, elaborado en fecha 4 de noviembre de 2022, por los peritos técnicos del proceso,
+señores Murphy Váldez, Felix Joan Olivo, Soriangy Hernández, Carlos George y Joseph Tovar,
+quienes se desempeñan como Analista Técnico de Video Vigilancia, Administrador de Sistemas de
+Video Vigilancia, Encargado de la División de Redes y Comunicaciones, Encargado de Operaciones
+TIC y Director de Video Vigilancia (todos del Sistema 9-1-1), respectivamente.
+
+SEGUNDO: ACOGE, íntegramente, las conclusiones y recomendaciones vertidas en los Informes citados
+en el Ordinal PRIMERO, de esta parte resolutiva; y en consecuencia, ADJUDICA el tratado procedimiento
+
+10 de 15 KZ
+
+
+--- Page 11 ---
+de compra y/o contratación de Referencia No.: 911-MAE-PEEN-2022-0001;
+
+continuación:
+
+Setenta y Ocho Mil Novecientos Sesenta y Tres Pesos Dominicanos con 0. 40 / 100),
+de los ítems que se identifican junto a sus precios y cantidades en el cuadro siguiente:
+
+tos o
+
+ONE ce
+ae ele
+h XQ Dgo
+
+Precios Totales por Ítems
+
+Hebilla para fleje de 1/2" 19,033.40
+
+69 | 50 UDS. Fleje de 1/2" (rollo) 107,380.00
+114 | 1000 UDS. Alambre Preformado 7/16" (Grip) 660,800.00 |
+115 | 100 UDS. Brazo Tensor Para Fibra Óptica 191,750.00 |
+Monto Total Adjudicado RD$978,963.40 |
+
+Setecientos Once Mil y Ochocientos Setenta y Cuatro Pesos Dominicanos con 0.25/100), por
+
+B) A favor de la sociedad comercial GIGALMI GROUP, S.R.L., la suma de RD$1,711,874.25 (Un Millón 'N
+
+concepto de los ítems que se identifican junto a sus precios y cantidades en el cuadro siguiente:
+
+Precios Totales por Ítems
+
+2 120 UDS. Tape de Goma 164,639.74
+
+3 300 UDS. Tape de Vinil 141,749.92
+
+4 5 UDS. Grasa Dieléctrica Para terminales eléctricos 5,355.02
+
+10 40 UDS. Varilla de Tierra 21,599.81
+
+11 40 UDS. Conector para varilla de Tierra 2,699.82
+
+14 200 PIE Cable desnudo de Cobre AWG-2 26,762.40
+
+20 200 UDS. Terminal tipo Aguja para cable AWG +10 1,210.68
+
+21 200 UDS. Terminal de Ojo AWG12 1,274.40 9
+23 3000 UDS. Terminal de ojo para cable de batería AWG+H2 246,118.50
+
+24 70 UDS. Canaleta 13,938.75
+
+29 1000 PIE Conductor Eléctrico AWG 8 Negro 29,279.34
+
+33 500 PIE Conductor Eléctrico AWG 8 Rojo 14,639.67
+
+35 1000 PIE Conductor Eléctrico AWG 8 Verde 28,912.95 A
+
+——
+37 50 UDS. Toma Corriente Blanco Decorativo Nema 5-15R 9,589.86 Y
+[==
+
+39 99999 UDS. Tie Wrap negro de 14" 224,610.75 |
+40 10 UDS. Breaker Modular dos polos, 40 Amp. 2,851.47 AN
+41 50 UDS. Breaker Modular dos polos, 30 Amp. 14,735.25
+42 150 UDS. Breaker Modular un polo, 20 Amp. 25,314.36
+43 100 UDS. Breaker Modular un polo, 32 Amp. 15,133.50
+44 20 UDS. Caja plástica 2x4” para tomacorriente 701.88
+
+11 de 15
+
+
+
+--- Page 12 ---
+45 30 UDS. Caja de registro eléctrico metálica 6x6” nema 3 : 10,623.24
+47 30 UDS. Caja de registro eléctrica plástica para exterior 6,665.27
+49 20 UDS. Candado de seguridad para exterior 20,414.00
+50 40 UDS. Coupling EMT 94” So, R.0-* 539.71
+51 40 UDS. Conector Recto EMT 34” 539.71
+52 100 UDS. Abrazadera EMT 34” 269.22
+53 50 UDS. Caja de Distribución Para Breaker De Riel DIN 4 45,514.96
+Circuitos
+
+54 30 UDS. Caja de Distribución Para Breaker De Riel DIN 2 12,216.54
+55 1500 PIE Tubería Flexible %” Liquid Tight 78,972.98
+56 250 UDS. Conector Liquid Tight Recto %” 17,550.88
+57 500 PIE Tubería Flexible %” Liquid Tight 19,577.97
+58 500 PIE Conector Liquid Tight Recto %” 22,945.10
+59 500 PIE Tubería Flexible 1” Liquid Tight 39,825.00
+60 150 PIE Conector Liquid Tight Recto 1” 15,187.66
+65 30 UDS. Kit de Mechas Tipo SDS para Concreto 12,664.35
+78 60 UDS. Tubo 3/4” PVC eléctrico 10,254.78
+74 17 UDS. Curva 3/4” PVC eléctrica 213.6
+76 20 UDS. Pliego de lija para metal (Grano 80) 605.34
+80 4 UDS. Brocha Y pulgada 108.32
+81 4 UDS. Brocha 2 pulgadas 860.22
+82 4 UDS. Brocha 4 pulgadas 860.22
+94 200 PIE Tuberia Liquid Tight 1.1/2" 33,752.48
+95 100 UDS. Tuberia Liquid Tight 2" 24,975.05
+96 200 UDS. Abrazadera EMT 1 Hoyo 1" 1,911.60
+97 50 UDS. Abrazadera EMT 1 Hoyo 1.1/2" 955.80
+98 50 UDS. Abrazadera EMT 1 Hoyo 2" 1,115.10
+99 2 UDS. Tuberia EMT Galvanizada 2" x 10' 2,935.25
+100 20 UDS. Abrazadera Unitron 2" 1,369.98
+101 80 UDS. Caja de Registro Plastica 100 x 100 x 70 mm 13,381.20 2
+102 4 UDS. Caja de Registro 6" x 6" x 4" Nema 1 1,160.98
+103 50 UDS. Conector Recto Lqt. Plástico 1.1/2" 17,921.25
+106 500 UDS. Tornillos ABC 14mm x 3" Diablito 2,508.98
+107 500 UDS. Tarugo plast. 8-5/16'x1" azul 1,038.40
+108 1000 UDS. Tarugo plast. 10-3/8"x 1.1/2" mamey 914.50
+109 150 UDS. Anclaje de cuña de 1/2" x 3-3/4" 5,063.97
+110 5 LBS. Arandela plana Y 597.38
+116 8 Uds. Flejadora 13,444.92
+117 50 UDS. Rollo de Fleje 103,146.75
+118 2000 UDS. SUSPENSIÓN CLAP TIPO (J) 6,359.26
+123 100 UDS. Terminal de Ojo para Cable +8 ll 637.20
+124 100 UDS. Terminal de Ojo para Cable +10 477.90
+
+12 de 15
+
+
+
+--- Page 13 ---
+125 100 UDS. Terminal de Aguja para Cable +8 637.20
+129 60 UDS. Riel Din 6,690.60
+131 1500 MTS. Cable Tensor de ro (Rollo De 100 14,337.00
+132 600 UDS. Grapa Galvanizada para Cable 12,960.65
+134 40 UDS. Silicón 29,160.16
+135 500 UDS. Tarugo de Plomo De 1/2 X 3/8 8,761.50
+136 500 UDS. Tarugo Plastico 9/32” X 1” Verde : 509.76
+137 500 UDS. Tornillo Tirafondo 10 X 1-1/2 ES 1,218.65
+138 400 UDS. Tornillos 3/8 Z 3,778.60
+152 5 UDS. Escalera 16 Pies De Fibra De Vidrio 92,624.99
+
+Monto Total Adjudicado 1,711,874.25
+
+C) A favor de la sociedad comercial TECNOFIJACIONES DE DOMINICANA, S.R.L., la suma de
+RD$1,454,741.94 (Un Millón Cuatrocientos Cincuenta y Cuatro Mil Setecientos Cuarenta y Un
+Pesos Dominicanos con 94/100), por concepto de los ítems que se identifican junto a sus precios
+
+y cantidades en el cuadro siguiente:
+
+(Y
+
+q ee
+
+13 de 15
+
+27 2000 PIE Conductor Eléctrico negro AWG12 21,594.00
+28 1000 PIE Conductor Eléctrico negro AWG10 17,936.00
+30 1000 PIE Conductor Eléctrico blanco AWG +10 17,936.00
+31 1000 PIE Conductor Eléctrico AWG 8 Blanco 31,270.00
+32 1000 PIE Conductor Eléctrico rojo AWG +10 17,936.00
+34 1000 PIE Conductor Eléctrico AWG +t10 Verde 17,936.00
+64 10 UDS. Kit de Mechas Tipo HSS para Metales 13,298.60
+70 1500 PIE Conductor Eléctrico de gama AWG++10, 3 hilos 80,234.10
+71 2500 PIE Conductor Eléctrico de gama AWG+12, 3 hilos 92,866.00
+a |
+
+104 4 UDS. Disco diamante 7' segmentado 3,587.20
+105 2 UDS. Cubo de Goma p/ Albañil 839.99 Y
+140 20 UDS. Botas de Seguridad 144,746.59 |
+141 300 UDS. Regletas Eléctricas 119,998.92 |
+144 12 UDS. Taladro Multifuncional de Mano con Bateria 214,594.80
+
+|
+145 10 UDS. Juego de Destornilladores 17,818.00
+146 25 UDS. Juego de Pinzas 19,175.00] |
+147 10 UDS. Cutter (Cuchilla) 2,360.00
+148 6 UDS. Cizalla De Mano De 30" 11,014.29
+149 5 UDS. Pulidora De 4-1/2" 26,609.00
+150 15 UDS. Alicate Eléctrico Multiuso 8,000.05
+151 4 UDS. Escalera 24 Pies De Fibra De Vidrio 107,199.98
+153 5 UDS. Sierra De Mano De Bateria 311,821.43
+
+
+--- Page 14 ---
+154 | 6 UDS. | Taladro Rotamartillo 155,969.99 |
+Monto Total Adjudicado RD$ 1,454,741.94 |
+
+TERCERO: DESESTIMA la oferta presentada por la sociedad comercial B 8: F MERCANTIL, S.R,L., por los
+motivos expuestos en el cuerpo de la presente acta.
+
+CUARTO: ORDENA a los adjudicatarios, que en el plazo de cinco (5) días hábiles, contados a parti
+notificación de la presente adjudicación, constituyan la garantía de fiel cumplimiento del contrato, an una
+extensión de ocho (8) meses, por el importe del cuatro por ciento (4%), y en caso de que el adj
+tenga la condición de ser Micro, Pequeña y Mediana Empresa (Mipyme), deberá entonces su cribi 6 LA e
+
+fianza por el uno (1%), en ambos casos, del total de la oferta económica adjudicada, mediante u Épó PRA
+
+de fianza contratada con una compañía aseguradora de reconocida solvencia en la República Domi ica pe E “Je
+con las condiciones de ser incondicional, irrevocable y renovable, a favor del Sistema Nacioná! de., 50
+Atención a Emergencias y Seguridad 9-1-1, en calidad de entidad contratante, de conformidad con DS
+
+disposiciones contenidas en el literal b) del artículo 112, del Reglamento No. 543-12, de aplicación de la
+Ley No. 340-06.
+
+QUINTO: DECLARA desiertos los Ítems 1, 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 22, 25, 26, 36, 38,
+46, 48, 61, 62, 63, 66, 67, 72,75, 77,78, 79, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 111,112, 113,
+119, 120, 121, 122, 126, 127, 128, 130, 133, 139, 142 y 143, del tratado proceso de Compra y/o
+Contratación para la “Adquisición de Herramientas y Materiales para la Resolución de Averías
+provocadas por el paso del Huracán Fiona, en la Planta Externa de Videovigilancia del Sistema
+Nacional de Atención a Emergencias y Seguridad 9-1-1”, de Referencia No.: 911-MAE-PEEN-2022-
+0001; por los motivos expuestos en el cuerpo de la presente Acta.
+
+SEXTO: APRUEBA los cuadros comparativos y/o reportes de lugares ocupados de este procedimiento,
+los cuales figuran en la parte motiva de la presente Acta.
+
+PÁRRAFO: En caso de imposibilidad o incumplimiento de constituir la garantía, de suscribir contrato o
+cualquier otro motivo por parte del oferente adjudicatario, se adjudicará al siguiente oferente, según el
+orden del Reporte de Lugares Ocupados, conforme a lo que dispone el artículo 109 del Reglamento de
+Aplicación de la Ley No. 340-06, sobre Compras y Contrataciones, No.543-12, de fecha seis (6) de
+septiembre del año dos mil doce (2012).
+
+SÉPTIMO: ORDENA la devolución de la oferta económica desestimada en el ordinal tercero de esta parte
+resolutiva, a la sociedad comercial la sociedad comercial B 8: F MERCANTIL, S.R.L.
+
+SÉPTIMO: ORDENA a la Unidad Operativa de Compras y Contrataciones notificar la presente Acta y sus
+anexos a todos los oferentes participantes y difundirla junto a los demás documentos de este proceso
+en el portal administrado por el Órgano Rector, Dirección General de Contrataciones Públicas,
+www.comprasdominicana.gob.do, y a la Oficina de Acceso a la Información Pública del Sistema 9-1-1,
+publicarlos, en el Portal Institucional del Sistema Nacional de Atención a Emergencias y Seguridad 9-1-
+1 O O A Ñ Ñ—Ñ—_
+
+2)
+
+Concluida esta sesión se dio por terminada la reunión del Comité, siendo las once horas de la mañana
+(11:00 a.m.), en fe de lo cual se levanta la presente acta, que firman todos los presentes en señal de
+aprobación y conformidad con su contenido, informando con su publicación a todos los oferentes
+participantes en el proceso y demás interesados, que disponen de un plazo de diez (10) días para
+presentar por escrito su reclamación o impugnación ante el Sistema Nacional de Atención a Emergencias
+y Seguridad 9-1-1, conforme a lo dispuesto en el numeral 1 del artículo 67 de la Ley No. 340-06, sobre
+Compras y Contrataciones, de fecha dieciocho (18) de agosto del año dos mil seis (2006); y b) treinta
+(30) días para la interposición de Recurso Contencioso Administrativo, por ante el Tribunal Superior
+Administrativo, en virtud del artículo 5 de la Ley No.13-07, que instituye la jurisdicción de lo contencioso
+
+14 de 15.
+
+yO
+
+
+
+--- Page 15 ---
+administrativo, de fecha seis (6) de febrero del año dos mil siete (2007). Los días de ambos plazos son
+hábiles y comienzan a contarse a partir del día siguiente de la notificación de la presente Acta, conforme
+a lo establecido en el Párrafo 1 del artículo 20 de la Ley No,107-13, sobre los Derechos de las Personas
+
+en sus Relaciones con la Administración y Procedji] éntos Administrativos, de fecha seis (6) de agosto
+
+de dos mil trece (2013). a A)
+
+Coronel Pi pto Ran a
+Director Ejecutiy i e
+
+rdes Florentino
+Miembro -
+
+Faysta E. Quevedo Famjlia
+Miembro
+
+=
+
+Arlyn Dih
+Miembro
+
+15 de 15
+
+
+

@@ -1,0 +1,117 @@
+--- Page 1 ---
+ll
+A de Información de la Gestión Financiera Entrada de Diario de Transacciones eg_formulario2.jrxml
+
+[ (Utilizado para Contabilizar el Gasto Corriente, de Capital y Página 1 de 1
+I Aplicaciones Financieras
+P ) 11/10/2022 9:34 AN.
+01700238858 - SIGEF
+ION 1A: DATOS CABECERA SUPERIOR Número y Versión : 9741-14
+Fecha Registro : 11/10/2022 o
+gupuesto : 2022 Fecha Imputación + 11/10/2022 a
+tulo : 0201 PRESIDENCIA DE LA REPÚBLICA 3
+ápitulo 01 MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA a
+01 MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA «X
+0001 SECRETARIADO ADMINISTRATIVO DE LA PRESIDENCIA
+SECÉION 1B: DATOS CABECERA MEDIANA Financiero
+Tipo [ransacción : COMPROMISO (Proceso Compra) Tipo de Norma: N/A
+Etapd del Gasto: Pre [WN] com [Ss] ve [iu] e [0] ros [o] ES e : NA
+onación E
+Docufhento de Ref.: . -01-01- A ,
+¡C ¡e Rel 2022-0201-01-01-0001-9609 Préstamo
+SECCION 1C: DATOS CABECERA INFERIOR
+Totales por Moneda
+[Tipo de Gasto
+reee] aran] A
+Cor Neto 54,277,350.00 54,277,350.00
+jespuesaro Ja]
+1
+* Agrupador : Calamidades y Emergencias por Fenómenos Naturales - Huracán Fiona
+Concepto : PAGO A BELLON, S.A.S, POR ADQUISICION DE SUMINISTROS DE MATERIALES PARA LA CONSTRUCCION DE VIVIENDAS AFECTADOS DE
+HURACAN FIONA.
+Coletilla
+Códigp Deuda
+DOCU ENTOS DE RESPALDO
+l
+|
+SECCION 1D: BENEFICIARIOS
+Tipo Doc. Cod. Benef. Beneficiario | Monto Bruto Monto Deducción Monto Neto
+R 102000621 BELLON, SA ] 54,277,350.00| 0.00] 54,277,350.08
+]
+DEDUÉCIONES
+SECCION 1E: DATOS DE IMPUTACIONES
+Institución Programática Fuento Úbic, Geo Específico. pan E
+Cap-Dbp-Daf-Ue | Prg-Prod-Pry-Act | Fue-Fxp-Org | Reg-Prov.Mun CCP-Ref.Fun-ObjyIRec e ta, Descurolón del regia Total SubTotal
+A A A 50-501i-109 [98-99-9999  |23:1.4011.1.02.0017 ../ 7 Actividades centrales 41,106,001.20] 41,106,001.20
+10201-01:P1-0001 101-00-00-0001 50-5011-109 [98-99-9999 2.3.6.3.06-1,1.02-001- ¡Actividades centrales 13,171,348,80| 54,277,350,.0(
+
+SECCION 1F: PIE DEL DOCUMENTO
+
+Responsable de Registro Ministro o Dir. O Indep.
+
+Aprobación Libramiento CGR
+
+
+
+--- Page 2 ---
+, GOBIERNO DE LA
+REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera,
+
+Período Fiscal : 2022 No. Expediente :
+Fech [41 [10 T 2022] No. Documento : EG16654935302247s9Qh
+[oo [ mu [ana
+
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+
+SubCapítulo: 01-MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+
+Unidad Ejecutora : 0001-SECRETARIADO ADMINISTRATIVO DE LA PRESIDENCIA
+
+Proceso : PAGO A BELLON, S.A.S, POR ADQUISICION DE SUMINISTROS DE MATERIALES PARA
+
+LA CONSTRUCCION DE VIVIENDAS AFECTADOS DE HURACAN FIONA
+
+No. Referencia : ;
+K— __——oo —c—
+Monto Total Proceso :
+_  _ _ __ _—— ||
+PESOS DOMINICANOS
+
+Moneda :
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No. 345-21 que permite suscribir contratos de compra de bienes, obras y servicios o
+irmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+Presos Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+2.3.1.4,01 Madera, corcho y sus manufacturas 41,106,C01.20
+2.3.6.3.06 Productos metálicos 13,171,348.80
+
+Total 54,277,350,00
+| monto de : **Cincuenta y cuatro millones doscientos setenta y siete mil trescientos cincuenta con
+
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+2022.0201.01.0001.9741-Versión 1 11/10/2022 54,277,350.00
+
+Beneficiario
+Código Nombre Moneda Original
+102000621 BELLON, SA 54,277,350.00
+otal 54,277,350.00
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-sigef. hacienda.gob.do/servicios/general/reporte/publico/RP1 665495297900SztUI6Igtn ¡SIGEF)
+
+EG1665087652671W1581
+
+Certificado de Apropiación Presupuestaria No.:
+
+
+

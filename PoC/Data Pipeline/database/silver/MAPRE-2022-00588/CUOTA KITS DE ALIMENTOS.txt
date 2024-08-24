@@ -1,0 +1,184 @@
+--- Page 1 ---
+ON
+
+_ GOBIERNO DE LA
+REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+[08 | 12 | 2022 No. Documento : EG1670529816965t22bf
+Fecha
+| bo | mm | añña
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+SubCapítulo: 01-MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+Unidad Ejecutora : 0001-SECRETARIADO ADMINISTRATIVO DE LA PRESIDENCIA
+Proceso : PAGO A CENTRO CUESTA NACIONAL, CCN; PARA LA COMPRA DE KITS DE
+
+ALIMENTOS PARA PERSONAS VULNERABLES AFECTADAS POR EL PASO DEL
+HURACAN FIONA
+
+No. Referencia :
+
+Monto Total Proceso :
+
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No. 345-21 que permite suscribir contratos de compra de bienes, obras y servicios o
+
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+Cuenta : Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+Presupuestaria
+2.3.1.1.01 Alimentos y bebidas para personas 91,809,600.00
+2.3.1.3.03 Productos forestales 7,604,400.00
+Total 99,414,000.00
+El monto de : **Noventa y nueve millones cuatrocientos catorce mil con 00/100 (99,414,000.00)
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+2022.0201.01.0001.12057-Versión 1 08/12/2022 99,414,000.00
+Beneficiario
+Código Nombre Moneda Original
+101019921 CENTRO CUESTA NACIONAL, SAS 99,414,000.00
+Total 99,414,000.00
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+. - E a,
+A http://api-
+E sigef.hacienda.gob.do/servicios/general/reporte/publico/RP1670530246568iVqDY43LWv ¡SIGEF/
+a
+E
+al
+
+Oj ie
+
+)
+A Certificado de Apropiación Presupuestaria No.: EG1670529204450F0hQo
+
+
+--- Page 2 ---
+F No. 1 Aprobado por el Contralor General de la República
+Entrada de Diario de Transacciones
+
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y
+Aplicaciones Financieras)
+
+Sistema de Información de la Gestión Financiera
+
+SECCION 1A: DATOS CABECERA SUPERIOR Número y Versión
+
+Fecha Registro
+
+Presupuesto : 2022 Fecha Imputación
+: 0201
+¿01
+
+- 01
+
+PRESIDENCIA DE LA REPÚBLICA
+MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+
+MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+
+Cápitulo
+SubCápitulo
+DAF
+
+UE SECRETARIADO ADMINISTRATIVO DE LA PRESIDENCIA
+
+eg_formulario2.jrxml
+
+Página 1 de 1
+09/12/2022 4:26 PM
+00107785214 - SIGEF
+
+: 12057-1
+: 08/12/2022
+
+: 08/12/2022
+
+Aprobado
+
+SECCION 1B: DATOS CABECERA MEDIANA Financiero
+
+COMPROMISO (Proceso Compra) Tipo de Norma
+
+Prev ¡| Comp Dev E] Lib
+
+2022-0201-01-01-0001-12053
+
+Tipo Transacción
+Desc. Norma
+
+Donación
+Préstamo
+
+Etapa del Gasto :
+
+Documento de Ref.:
+
+SECCION 1C: DATOS CABECERA INFERIOR
+
+Totales por Moneda
+
+N/A
+n/a
+
+Tipo de Gasto
+PESOS DOMINICANOS Pesos Dominicanos
+
+Presupuestario 99,414,000.00
+
+No Presupuestario 200 99,414,000.00 99,414,000.00
+
+Total General 99,414,000.00 [Bruto | 99,414,000.00 99,414,000.00
+Agrupador Calamidades y Emergencias por Fenómenos Naturales - Onda tropical Distrito Nacional y Santo Domingo
+Concepto PAGO A CENTRO CUESTA NACIONAL, CCN; PARA LA COMPRA DE KITS DE ALIMENTOS PARA PERSONAS VULNERABLES AFECTADAS POR EL
+
+PASO DEL HURACAN FIONA
+
+Coletilla
+
+Código Deuda
+
+DOCUMENTOS DE RESPALDO
+
+SECCION 1D: BENEFICIARIOS
+
+Tipo Doc. Cod. Benef. Beneficiario Monto Bruto Monto Deducción Monto Neto
+
+R 101019921 CENTRO CUESTA NACIONAL, SAS 99,414,000.00 0.00 99,414,000.00
+
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+Institución Programática Fuente Ubic. Geo Específico Snip ore
+Cap-Dep-Daf-Ue | Prg-Prod-Pry-Act | Fue-Fxp-Org | Reg-Prov-Mun CCP-Ref.Fun-Obj-Rec Snip-Tip pel 9 Ea EA
+
+0201-01-01-0001 — [01-00-00-0001 50-5011-109 [98-99-9999 — |2.3.1.1.01-1.1.02-001- - [Actividades centrales 91,809,600.00 91,809,600.00
+(00000-0000
+
+0201-01-01-0001 — [01-00-00-0001 50-5011-109 [98-99-9999 — |2.3.1.3.03-1.1.02-001- - Actividades centrales 7,604,400.00 99,414,000.00
+(00000-0000
+
+SECCION 1F: PIE DEL DOCUMENTO
+
+Firmas Autorizadas para el documento de Gasto No. 2022.0201.01.0001.12057-'
+
+Respons. Unidad Ejecutora Responsable de Registro
+
+Aprobación Libramiento CGR
+
+1
+
+Ministro o Dir. O Indep.
+
+
+

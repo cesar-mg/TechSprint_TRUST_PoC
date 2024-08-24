@@ -1,0 +1,190 @@
+--- Page 1 ---
+F No. 1 Aprobado por el Contralor General de la República
+Sistema de Información de la Gestión Financiera Entrada de Diario de Transacciones eg_formulario2.jrxml
+: (Utilizado para Contabilizar el Gasto Corriente, de Capital y Página 1 de 1
+Aplicaciones Financieras) 17/03/2023 2:44 PM
+
+00100150002 - SIGEF
+
+Número y Versión : 245-1
+Fecha Registro : 15/03/2023
+Fecha Imputación + 15/03/2023
+
+SECCION 1A: DATOS CABECERA SUPERIOR
+
+Presupuesto : 2023
+
+Cápitulo : 0201 PRESIDENCIA DE LA REPÚBLICA
+SubCápitulo : 02 GABINETE DE LA POLÍTICA SOCIAL
+
+DAF 01 GABINETE DE LA POLÍTICA SOCIAL
+
+UE PLAN PRESIDENCIAL CONTRA LA POBREZA
+
+Aprobado
+
+SECCION 1B: DATOS CABECERA MEDIANA Financiero :E]
+Tipo de Norma
+
+Desc. Norma
+
+Etapa del Gasto : Prev Es] Comp | Dev E] Lib Es] Pag 7] Donación
+
+Documento de Ref.: Préstamo
+
+Tipo Transacción : PREVISION (Proceso Compra)
+
+SECCION 1C: DATOS CABECERA INFERIOR
+Totales por Moneda
+
+Tipo de Gasto
+| concepto — | PESOS DOMINICANOS Pesos Dominicanos
+Presupuestario 4,477,500.00
+Neto 4,477,500.00
+
+Total Gonoral 4,477,500.00 [Bruto | 4,477,500.00 4,477,500.00
+
+Agrupador : Alimentos y Productos Agroforestalos
+
+* Preventivo para la Adquisicion de Insumos para creacion de raciones alimenticias para ser utilizadas en ayuda social de la institucion, en ocacion al
+
+Concepto
+impacto de torrenciales aguaceros caido el viernes 04 de noviembre 2022. PASP-MAE-PEEN-2022-0002.
+
+Coletilla
+
+Código Deuda
+
+DOCUMENTOS DE RESPALDO
+SECCION 1D: BENEFICIARIOS
+
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+Institución Ubic. Geo Específico
+
+Fue-Fxp-Org | Reg-Prov-Mun Total
+0201-02-01-0003 — |14-02-00-0001 10-0100-100 [98-99-9999  |2.3.1.1.01-4.5.10-001- | [Asistencia social integral 4,477,500.00] 4,477,500.00|
+90000-0000
+y
+
+SECCION 1F: PIE DEL DOCUMENTO
+Firmas Autorizadas para el documento de Gasto No. 2023.0201.02.0003.245-1 /
+
+Ministro Q/Dir. O Indep.
+
+'esponsable'de Registro
+
+Aprobación Libramiento CGR
+
+
+
+--- Page 2 ---
+_ GOBIERNO DE LA
+REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE APROPIACION PRESUPUESTARIA.
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2023 No. Expediente :
+
+No. Documento : EG1678909217242PSquf
+
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+
+Sub Capítulo: 02-GABINETE DE LA POLÍTICA SOCIAL
+
+Unidad Ejecutora : 0003-PLAN PRESIDENCIAL CONTRA LA POBREZA
+
+Proceso : Preventivo para la Adquisicion de Insumos para creacion de raciones alimenticias para ser
+
+utilizadas en ayuda social de la institucion, en ocacion al impacto de torrenciales aguaceros
+caido el viernes 04 de noviembre 2022. PASP-MAE-PEEN-2022-0002.
+
+No. Referencia :
+Monto Total Proceso : 4,477,500.00
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA que el Presupuesto General del Estado para el año 2023, aprobado por Ley No.366-22, dispone de
+balance de Apropiación Presupuestaria suficiente para iniciar procesos de contratación de bienes, obras y
+servicios por el monto indicado en este documento, en cumplimiento a lo establecido en el Decreto 15-17 del 08
+febrero de 2017. De acuerdo al siguiente detalle :
+
+Cuenta d Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2023
+Presupuestaria
+2.3.1.1.01 Alimentos y bebidas para personas 4,477,500.00
+Total 4,477,500.00
+El monto de : Cuatro millones cuatrocientos setenta y siete mil quinientos con 00/100 (4,477,500.00)
+
+Número de Preventivo Fecha de Preventivo Monto de Preventivo
+2023.0201.02.0003.245-Versión 1 17/03/2023 4,477,500.00
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-sigef.hacienda.gob.do/servicios/general/reporte/publico/RP1679666873632gfT99g1JvQ ¡SIGEF/?
+
+
+
+--- Page 3 ---
+_ SOBIERNO DE LA
+REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2023 No. Expediente :
+
+Fecha: [20 o | o3 | 2023 ] No. Documento : EG1679321856375WMDCX
+[oo | mm | aña |
+
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+
+SubCapítulo: 02-GABINETE DE LA POLÍTICA SOCIAL
+
+Unidad Ejecutora : 0003-PLAN PRESIDENCIAL CONTRA LA POBREZA
+
+Compromiso A: Grupo Biserici, para la Adquisicion de Insumos para creacion de raciones
+alimenticias para ser utilizadas en ayuda social de la institucion, en ocacion al impacto de
+torrenciales aguaceros caido el viernes 04-11-2022. PASP-MAE-PEEN-2022-0002
+
+Proceso :
+
+No. Referencia :
+
+Monto Total Proceso :
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2023, aprobado por Ley No. 366-22 que permite suscribir contratos de compra de bienes, obras y servicios o
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+Cuenta d Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2023
+Presupuestaria
+2.3.1.1.01 Alimentos y bebidas para personas 4,477,500.00|
+Total 4,477,500.00|
+El monto de : **Cuatro millones cuatrocientos setenta y siete mil quinientos con 00/100
+
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+2023.0201.02.0003.282-Versión 1 20/03/2023 4,477,500.00
+| Beneficiario
+
+Código Nombre Moneda Original
+130950172 Grupo Biserici, SRL 4,477,500.00
+Total 4,477,500.00
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-
+sigef.hacienda.gob.do/servicios/general/reporte/publico/RP1679666929970SrRZTsrzwW ¡ISIGEF?
+
+Certificado de Apropiación Presupuestaria No.: EG1678909217242PSqgf
+
+

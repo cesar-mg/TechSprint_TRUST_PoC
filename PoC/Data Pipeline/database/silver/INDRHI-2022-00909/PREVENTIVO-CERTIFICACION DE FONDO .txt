@@ -1,0 +1,300 @@
+--- Page 1 ---
+OS y pp
+
+Instituto Nacional de Recursos Hidráulicos
+Direccion Administrativa - Financiera
+
+YE SS S
+“Oficio No. 361 /DJ
+
+Requerimiento : Dirección de Operación y Conservación de
+Sistema Riego
+
+Fecha S 17 de noviembre de 2022
+
+Yo, Lic. Ángel De León Vicioso, en mi calidad de Director Administrativo y Financiero
+del INSTITUTO NACIONAL DE RECURSOS HIDRÁULICOS  (INDRHD,
+CERTIFICO QUE LOS FONDOS ASIGNADOS MEDIANTE EL CERTIFICADO
+DE APROPIACION PRESUPUESTARIA No, EG1666043259887CSDFu PARA:
+
+SERVICIO DE ALQUILER DE EQUIPOS PESADOS PARA SUBSANAR LOS
+PROBLEMAS DE EMRGENCIA CAUSADS POR EL PASO DEL H
+FIONA: LOTE 3. Contrato No. INDRHI-2022-00909.
+
+Presupuesto: RD$15,131,340.00 (Quince Millones Ciento Treinta y
+Cuarenta Pesos Dominicanos Con 00/100), el cual será pagado a trf
+Unica No.100010102384894.
+
+Objeto: 2.2.5.7.01
+
+Y para que conste, firmo la presente certificación,
+
+ES
+
+; INDRA )
+, o R . FR .
+a Direecion] je Fs ADO evision Lic./ ng e León icioso
+La : - Director Administrativo Financiero
+
+a INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS + Av. Juan de Dios Ventura Simó esq. Av. Jiménez Moya,
+Sto. Dgo., Rep. Dom. + Apartado 1407 Agua y Energía para todos +» Tel.: 809-532-3271 + http://www.indrhi.com.do
+SSSSSSGSG SS - E-mail: direccioneindhi.gob.do - RNC: 401012626
+
+
+--- Page 2 ---
+NS
+
+_ GOBIERNO DE LA
+REPÚBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE APROPIACION PRESUPUESTARIA.
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+No. Documento : EG1666043259887CSDFu
+[bo | mm | añaa |
+Capítulo : 5118-INSTITUTO NACIONAL DE RECURSOS HIDRAÚLICOS (INDRHI)
+Sub Capítulo: 01-INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+Unidad Ejecutora : 0001-INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+Proceso : PARA LOS SERVICIOS DE ALQUILER DE EQUIPOS PESADOS PARA SUBSANAR LOS
+
+PROBLEMAS DE EMERGENCIAS CAUSADOS POR EL PASO DEL HURACÁN FIONA.
+
+No. Referencia : /
+Monto Total Proceso : 64,478,361.87
+Moneda : PESOS DOMINICANOS
+
+PESOS DOMINILANOS o IA4Aá<
+Se CERTIFICA que el Presupuesto General del Estado para el año 2022, aprobado por Ley No.345-21, dispone de
+balance de Apropiación Presupuestaria suficiente para iniciar procesos de contratación de bienes, obras y
+servicios por el monto indicado en este documento, en cumplimiento a lo establecido en el Decreto 15-17 del 08
+febrero de 2017. De acuerdo al siguiente detalle :
+
+Cuenta 3 Fis a
+Presupuestari Nombre de la Cuenta Presupuestaria | Apropiación Presupuestaria 2022
+2.2.5.7.01 Alquileres de equipos de construcción y movimiento de 64,478,361.87 /
+tierras 1
+Total 64,478,361.87
+El monto de : "Sesenta y cuatro millones cuatrocientos setenta y ocho mil trescientos sesenta y un
+
+Número de Preventivo Fecha de Preventivo Monto de Preventivo,
+2022.5118.01.0001.5548-Versión 1 17/10/2022 64,478,361.87 *
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-
+sigef.hacienda.gob.do/servicios/general/reporte/publico/RP16660438717048TKpAX90Zh ¡SIGEF
+
+
+
+--- Page 3 ---
+pe
+
+FINO, 1 ApILLAUL pur El Lunar! Senerar ue 18 nuca
+Sistema de Información de la Gestión Financie Entrada de Diario de Transacciones eg_formulario2.jrxml
+
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y Página 1 de 1
+Aplicaciones Financieras) 16/11/2022 12:34 PM
+
+01400089304 - SIGEF
+
+SECCION 1A: DATOS CABECERA SUPERIOR A Número y Versión : 6156-1
+Fecha Registro ; 11/11/2022
+
+Presupuesto : 2022 Fecha Imputación - 11/11/2022
+
+Cápitulo : 5118 INSTITUTO NACIONAL DE RECURSOS HIDRAÚLICOS (INDRHI)
+SubCápitulo ¿01 INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+DAF 01 INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+UE : 0001 INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+
+SECCION 1B: DATOS CABECERA MEDIANA Financiero :l
+
+Tipo Transacción : COMPROMISO (Proceso Compra) Tipo de Norma —: N/A
+Desc. Norma : N/N
+Etapa del Gasto : Prev y Comp g Dev N Lib [ N ] Pag
+E Ex] Donación :
+Documento de Ref.: 2022-5118-01-01-0001-5548 Préstamo
+
+SECCION 1C: DATOS CABECERA INFERIOR
+
+15,131,340.00 15,131,340,00
+
+E FEE SAO
+
+15,131,340.00 Emma 15,131,30.00 15,131,340.00
+
+: Alquileres y Seguros
+
+Concepto : PARA LOS SERVICIOS DE ALQUILER DE EQUIPOS PESADOS PARA SUBSANAR LOS PROBLEMAS DE EMERGENCIAS CAUSADOS POR EL PASO
+DEL HURACÁN FIONA. LOTE 3.INDRHI-MAE-PEEN-2022-0002.
+
+15,131,340.00
+
+no presapunearo Jo]
+
+Agrupador
+
+Coletilla
+
+Código Deuda
+
+DOCUMENTOS DE RESPALDO
+
+SECCION 1
+
+BENEFICIARIOS
+
+IR
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+4
+
+Construcció 15,131,340.00
+de sisengs de riego y obras
+
+hidraúlica:
+
+—15,131,340.00
+
+1.0001.6156-1
+
+Responsable de Registro
+
+Aprobación Libramiento CGR
+
+
+
+--- Page 4 ---
+GUBIERNO DE LA
+PUBLICA DOMINICANA DD Página 1 do 1
+
+v : HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+No. Documento : EG166819275300200pQE
+
+Capítulo : 5118-INSTITUTO NACIONAL DE RECURSOS HIDRAÚLICOS (INDRHI)
+
+SubCapitulo: 01-INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+Unidad Ejecutora : 0001-INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+Proceso : PARA LOS SERVICIOS DE ALQUILER DE EQUIPOS PESADOS PARA SUBSANAR LOS
+
+PROBLEMAS DE EMERGENCIAS CAUSADOS POR EL PASO DEL HURACÁN FIONA,
+LOTE 3.INDRHI-MAE-PEEN-2022-0002.
+
+No. Referencia :
+Monto Total Proceso :
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No. 345-21 que permite suscribir contratos de compra de blenes, obras y servicios o
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+Presupuestaria | Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+
+2.2.5,7.01 Iqui lores de equipos de construcción y movimiento de 15,131,340.00
+CS 15,131,540.00
+
+El monto de : **Quince millones ciento treinta y un mil trescientos cuarenta con 00/100
+
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+|__2022.5118.01.0001.6156-Versión 1 16/11/2022 15,131,340.00
+
+Beneficiario
+
+MET ESTE 15131,340.00
+TS O E
+
+Para la verificación de la Integridad de este decumento electrónico, ingresar a la sigulente
+dirección web:
+
+http://apl-
+slgef.hacienda.gob.do/semicios/general/reporte/publico/RP1868616461877As94rB5B4w
+
+Certificado de Apropiación Presupuestarla No.: EG1666043259887CSDFu
+
+
+
+--- Page 5 ---
+PINO, 1 MPIVLAYU pu El MUI Delicias Ue la NEPUUIn pu,
+Sistema de Información de la Gestión Financiera Entrada de Diario de Transacciones eg_formulario2.jrxml
+
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y Página 1 de 1
+Aplicaciones Financieras) 16/11/2022 12:34 PM
+
+01400089304 - SIGEF
+
+SECCION 1A: DATOS CABECERA SUPERIOR Número y Versión : 6156-1
+Fecha Registro ; 11/2022
+
+Presupuesto ¡e202a Fecha Imputación ; 12022
+Cápitulo ¿5118 INSTITUTO NACIONAL DE RECURSOS HIDRAÚLICOS (INDRHI)
+SubCápitulo 01 INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+DAF 0 INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS «INDRHI-
+UE , INSTITUTO NACIONAL DE RECURSOS HIDRAULICOS -INDRHI-
+
+Aprobado
+
+SECCION 18: DATOS CABECERA MEDIANA Financiero :
+Tipo de Norma
+
+Tipo Transacción : COMPROMISO (Proceso Compra)
+Desc. Norma
+
+Etapa del Gasto : Prev Ñ Comp E Dev
+Donación
+Documento de Ref.: 2022-5118-01-01-0001-5548 Préstamo
+
+SECCION 1C: DATOS CABECERA INFERIOR
+
+COS AAA
+pr CAN INN] INIA
+0%
+
+Agrupador : Alquileres y Seguros
+
+| PARA LOS SERVICIOS DE ALQUILER DE EQUIPOS PESADOS PARA SUBSANAR LOS PROBLEMAS DE EMERGENCIAS CAUSADOS POR EL PASO
+
+Concepto
+DEL HURACÁN FIONA. LOTE 3.INDRHI-MAE-PEEN-2022-0002.
+
+Coletilla
+
+Código Deuda
+
+DOCUMENTOS DE RESPALDO
+
+SECCION 1D: BENEFICIARIOS
+
+Bs
+COR LL Econ sa 7
+
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+2Z5TOMZIOOO r 15,131,340.00|
+(0000-0000
+
+>:
+SECCION 1F: PIE DEL DOCUMENTO peas
+Firmas Autorizadas para'el documento de Gasto No. 2022,5418.01.0001.6156-1
+
+Al artis Diclorx in
+
+Responsable de Registro
+
+Aprobación Libramiento CGR
+
+
+

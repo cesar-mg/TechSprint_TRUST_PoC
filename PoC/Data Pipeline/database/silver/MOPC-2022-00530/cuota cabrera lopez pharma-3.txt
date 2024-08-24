@@ -1,0 +1,53 @@
+--- Page 1 ---
+IN
+
+» A GOBIERNO DELA e
+> REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE APROPIACION PRESUPUESTARIA.
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2023 No. Expediente :
+Ea [27 | o3 | 2023 | No. Documento : EG1679929227726BrEaH
+| bo | mm | aras |
+Capítulo : 0211-MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES
+Sub Capítulo: 01-MINISTERIO DE OBRAS PUBLICAS Y COMUNICACIONES
+Unidad Ejecutora : 0001-MINISTERIO DE OBRAS PUBLICAS Y COMUNICACIONES
+Proceso : PARA REGISTRAR EL CONTRATO No.1470-2022, A NOMBRE DE: CABRERA LOPEZ
+
+PHARMA,S.R.L., ADQ. DE INSUMOS Y EQUIPOS , PARA SER UTILIZADOS EN LABORES
+DE DESINFECCION Y FUMIGACION (DAÑOS OCASIONADOS POR AGUACEROS CAIDOS
+
+EL VIERNES 4 DE NOV.2022), DECRETO 638-22
+No. Referencia :
+Monto Total Proceso : 3,298,000.00
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA que el Presupuesto General del Estado para el año 2023, aprobado por Ley No.366-22, dispone de
+balance de Apropiación Presupuestaria suficiente para iniciar procesos de contratación de bienes, obras y
+servicios por el monto indicado en este documento, en cumplimiento a lo establecido en el Decreto 15-17 del 08
+febrero de 2017. De acuerdo al siguiente detalle :
+
+| Cuenta |
+
+Presupuestaria Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2023 |
+
+| 2.3.9.3.01 [Útiles menores médico, quirúrgicos o de laboratorio 3,298,000.00
+
+Total 3,298,000.00
+
+El monto de : **Tres millones doscientos noventa y ocho mil con 00/100 (3,298,000.00)
+
+Número de Preventivo Fecha de Preventivo Monto de Preventivo
+2023.0211.01.0001.3295-Versión 1 27/03/2023 3,298,000.00
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-
+sigef.hacienda.gob.do/servicios/general/reporte/publico/RP16799313531050r4Un97YTw ¡SIGEF'
+
+
+

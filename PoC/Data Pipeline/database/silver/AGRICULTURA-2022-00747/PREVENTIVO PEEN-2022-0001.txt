@@ -1,0 +1,77 @@
+--- Page 1 ---
+F téo. 1 Aprobado por el Contralor General de la República
+Sistema de Información de la Gestión Financiera Entrada de Diario de Transacciones eg_formulario2.jrxml
+y 4
+
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y Página 1 de 1
+Aplicaciones Financieras) 12/12/2022 2:58 PM
+
+00102729639 - SIGEF
+
+Número y Versión - 7444-1
+Fecha Registro : 1210/2022
+
+¡ECCION 1A: DATOS CABECERA SUPERIOR
+
+Presupuesto : 2022 Fecha Imputación + 12/10/2022
+
+Cápitulo : 0210 MINISTERIO DE AGRICULTURA
+SubCápitulo 01 MINISTERIO DE AGRICULTURA
+DAF 01 MINISTERIO DE AGRICULTURA
+UE : MINISTERIO DE AGRICULTURA
+
+Aprobado
+
+SECCION 18: DATOS CABECERA MEDIANA Financiero :
+
+Tipo Transacción : PREVENTIVO PROCESO DE COMPRAS PARA BIENES MUEBLES Y OBRAS Tipo de Norma: N/A
+Desc. Norma : N/A
+
+Etapa del Gasto : prev [s ] comp [N ] De Es] a Ex] Pas [w] Donación
+
+Documento de Ref.: Préstamo
+
+SECCION 1C: DATOS CABECERA INFERIOR
+Totales por Moneda
+
+aanedo | concepto — | PESOS DOMINICANOS Pesos Dominicanos
+149, ho .
+
+Total Goneral 149,034,760.00 [Bruto | 149,034,760.00 149,034,760.00
+
+Agrupador : Calamidades y Emergencias por Fenómenos Naturales - Huracán Fiona
+
+Concepto : PARA CUBRIR PROCESO DE COMPRAS, SERVICIO DE ROTULACION DE 200,000 TAREAS DE TERRENOS EN LABORES DE CORTE Y CRUCE,
+PARA LA SIEMBRA DE DIFERENTES RUBROS CON TRACTORES PRIVADOS, EN LAS DISTINTAS PROVINCIAS AFECTADAS POR EL HURACAN
+
+olaa FIONA. SEGUN DOC. ANEXOS
+
+ole :
+
+Código Deuda
+
+LOCUMENTOS DE RESPALDO
+
+SECCION 1D: BENEFICIARIOS
+
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+Institución Fuente Específico Snip
+Cap-Dep-Daf-Ue Fue-Fxp-Org CCP-Ref.Fun-Obj-IRec Snip-Tip Deseripción gel Erogrema 27 ral
+
+0300-00-02 27 ZGOT-ZZOTO0- - Actividades comunes a los | 40.036 160.00
+[00000-0000 rogramas 11 y 14
+
+SECCION 1F: PIE DEL DOCUMENTO
+
+Firmas Autorizadas para el documento de Gasto No. 2022.0210.01.0001.7444-1
+
+es
+
+Aprobación Libramiento CGR
+
+3
+
+

@@ -1,0 +1,215 @@
+--- Page 1 ---
+¿Ay
+; GOBIERNO DE LA
+REPUBLICA DOMINICANA Página 1 de 1
+
+HACIENDA
+CERTIFICADO DE DISPONIBILIDAD DE CUOTA PARA COMPROMETER
+
+Sistema de Información de la Gestión Financiera.
+
+Período Fiscal : 2022 No. Expediente :
+
+[recha: 50 022 No. Documento : EG1664986067811NpfBH
+[oo [ mm | aran
+
+Capítulo : 0201-PRESIDENCIA DE LA REPÚBLICA
+
+SubCapítulo: 01-MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+
+Unidad Ejecutora : 0009-COMISIÓN PRESIDENCIAL DE APOYO AL DESARROLLO PROVINCIAL
+
+Proceso : Para compra de materiales que serán utilizados en las reparaciones de viviendas afectadas
+
+or el Huracán Fiona
+
+No. Referencia :
+
+Monto Total Proceso :
+Moneda : PESOS DOMINICANOS
+
+Se CERTIFICA la Disponibilidad de Cuota para Comprometer en base al Presupuesto General del Estado para el
+año 2022, aprobado por Ley No, 345-21 que permite suscribir contratos de compra de bienes, obras y servicios o
+firmar órdenes de compras por el monto indicado en este documento, en cumplimiento a lo establecido en el
+Decreto 15-17 del 08 febrero de 2017. De acuerdo al siguiente detalle :
+
+Cuenta A
+| Presupuestaria Nombre de la Cuenta Presupuestaria Apropiación Presupuestaria 2022
+2.3.1,4.01 Madera, corcho y sus manufacturas 62,185,761.05
+Total | 62,185,761.05
+El monto de : *Sesenta y dos millones ciento ochenta y cinco mil setecientos sesenta y un con
+Número de Compromiso Fecha de Compromiso Monto de Compromiso
+2022.0201.01.0009.1224-Versión 1 05/10/2022 62,185,761.05
+Beneficiario
+Código Nombre Moneda Original
+131764071 Ferretería £ Pinturas Larimar, SRL 62,185,761.05
+Total | 62,185,761.05|
+
+Santo pom ds
+
+Para la verificación de la integridad de este documento electrónico, ingresar a la siguiente
+dirección web:
+
+http://api-sigef.hacienda.gob.do/servicios/general/reporte/publico/RP1664987524305KfJZoAylyz E
+
+Certificado de Apropiación Presupuestaria No.: EG1664398929579RDbBj
+
+
+
+--- Page 2 ---
+di
+
+A IJUÑARA
+
+AUMTIDAR
+AJTIMOASMOS ARAS ATOUI 30 DAQLIBiMO 4210 Ad OGADIH AJO
+
+«asia? noes sl eb ndisrimotal eb «mutzja
+
+200 AA AVIADIAL
+
+¿asia lA £205 laa obohe9
+HEQUtHSTEDOREADADA voltemusaQ old ESSN y ,
+o Pol aña.
+12085 1 14 1 20
+y _ADIAUSZA AO OMA OSO olutiqud
+
+AIMACIRIAG As 30 OVITART2IIIOA DIAITOIMR 10 'atultasddua
+O CANA a
+
+A A A A A A A A A
+
+TARVIVORO OJIOARALÍO JA OYOIA 30 MAOMACIZ3 AS MONKRIMOD-2000 stbroala hebinl!
+
+¿abetos ¿abre viv eb asooiostega 28 ya eotenliuntise aup estensisin sh equipos 84 : 0399019
+o NN NN pacA añ9s4HA la og
+
+o o ¿blanes A ¿av
+
+AA A A A A A A A cesar” njaT olnoM
+
+a
+o EOHADIMAIMOS 20839 -abanoWt
+
+Ja sq obaie3 los y levusdl pi24uquasl9 la seso pa tatormotaro) sta siova ab bubllkinogelG + AQUITAGO ae
+
+9 gojoviaz y esido ¡ganaia eh samaa eb sotpunos sidiaape slinnes on0p H-25£ o M yet 109 obadorgs ¡550506
+
+is fte obivajdsias al a oinatallgiias 19 01msmbrob alos na obsolbii oimom le 109 261900 eb senshio 18:01
+¿alisleb stusiugiz lo obispos 20 THOR abigrardsi 80 lob VE-¿7 ojeosO -
+
+e .a e - A A
+
+ii a a
+
+120.10 L:Ght 54 J AO USA 2ue «ororda ¡moomtál ALEX
+Er bate it
+noo ns y ainezss soimelgsise lira 090 y eltedas anat esaciim 20b y alnsgna” :9b atom
+
+SalmomoDd ob sdae71 | 7 osjsoraiod eb ora
+Enormes S21.6000. 10, (0%0.X908
+
+EPA: E O
+
+sidioW
+
+[ SUImMDamoo eb Deo
+B
+
+MECALOR
+
+A A AA)
+EAT
+
+aónolugia + erosstpat ¡opindnaclo otopmuneti stas eb Lobras sh ablar al 9
+on cir oo
+NE a AD ELIAS A lycra neos dz, hn bep 7
+
+¡EAUALTOO CRECIDO ¿OA aluiesugueaan 9 nótomaqoigA sh obrafítad
+
+a
+
+
+--- Page 3 ---
+F No. 1 Aprobado por el Contralor General de la República
+
+Sistema de Información de la Gestión Financiera Entrada de Diario de Transacciones eg_formulario2.jrxml
+Página 1 de 1
+
+(Utilizado para Contabilizar el Gasto Corriente, de Capital y
+
+Aplicaciones Financieras) 05/10/2022 12:31 PM
+09300378008 - SIGEF
+
+Número y Versión : 1224-1
+Fecha Registro : 05/10/2022
+
+SECCION 1A: DATOS CABECERA SUPERIOR
+
+Presupuesto : 22 Fecha Imputación - 08/10/2022
+Cápitulo s PRESIDENCIA DE LA REPÚBLICA
+
+SubCápitulo : MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+
+DAF : MINISTERIO ADMINISTRATIVO DE LA PRESIDENCIA
+
+UE : COMISIÓN PRESIDENCIAL DE APOYO AL DESARROLLO PROVINCIAL
+
+Aprobado
+
+SECCION 1B: DATOS CABECERA MEDIANA Financiero
+
+Tipo Transacción : COMPROMISO (Proceso Compra) Tipo de Norma
+Desc. Norma
+
+Etapa del Gasto : Prev E] Comp E] Dev EJ Lib EX] Pag E] o a
+jonación
+
+Documento de Ref.: 2022-0201-01-01-0009-1193 Préstamo
+
+SECCION 1C: DATOS CABECERA INFERIOR
+Totales por Moneda
+Tipo de Canto p
+ETT
+
+Agrupador : Calamidades y Emergencias por Fenómenos Naturales - Huracán Fiona
+
+Concepto : Para compra de materiales que serán utilizados en las reparaciones de viviendas afectadas por el Huracán Fiona
+
+Coletilla
+
+Código Deuda
+DOCUMENTOS DE RESPALDO
+
+SECCION 1D: BENEFICIARIOS
+
+Cod. Benef. [ Beneficiario Monto Bruto [Monto Deducción Monto Neto
+62,185,761.05| 0.00| 62,185,761.05|
+
+R 131764071 [Ferretería 8 Pinturas Larimar, SRL
+
+DEDUCCIONES
+
+SECCION 1E: DATOS DE IMPUTACIONES
+
+Institución Programática Fuente Ubic. Geo
+Cap-Dep-Daf-Ue | Prg-Prod-Pry-Act | Fue-Fxp-Org | Reg-ProvwMun
+10201-01-01-0009 22-02-00-0001 150-5011-109 [98-99-9999
+
+Descripción del Programa
+Total SubTotal
+
+yo al desarrollo provincial 62,185,761.05| 62,185,761.05|
+
+SECCION 41F: PIE DEL DOCUMENTO
+2022.0201.01.0009.1224-1
+
+Ministro o Dir. O Indep.
+
+Respónsable de Registro
+
+Respons. Unidad Ejecutora
+
+Aprobación Libramiento CGR
+
+
