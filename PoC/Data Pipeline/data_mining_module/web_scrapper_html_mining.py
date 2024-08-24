@@ -51,17 +51,6 @@ class WebScraper:
             except Exception as e:
                 print(f'Error scraping {url} for contract {contract_code}: {e}')
 
-# Example usage with DataFrame
-df = pd.DataFrame({
-    'URL_CONTRATO': [
-        'https://comunidad.comprasdominicana.gob.do//Public/Tendering/OpportunityDetail/Index?noticeUID=DO1.NTC.13691061'
-        # Add more URLs as needed
-    ],
-    'CONTRACT_CODE': [
-        'CONTRACT1234'
-        # Add corresponding contract codes
-    ]
-})
 
 scraper = WebScraper(df)
 scraper.scrape()
